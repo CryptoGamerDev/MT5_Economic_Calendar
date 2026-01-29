@@ -102,8 +102,8 @@ Title,Country,Date,Time,Importance,Actual,Forecast,Previous,Currency
 "ECB Non-Financial Corporations Loans y/y","European Union",2026.01.29,11:00,1,3.0,N/A,N/A,EUR
 "ECB Private Sector Loans y/y","European Union",2026.01.29,11:00,1,3.3,N/A,N/A,EUR
 "Trade Balance Non-EU","Italy",2026.01.29,11:00,1,8.385,N/A,6.918,EUR
-"PPI m/m","South Africa",2026.01.29,11:30,1,N/A,0.1,0.0,ZAR
-"PPI y/y","South Africa",2026.01.29,11:30,1,N/A,2.0,2.9,ZAR
+"PPI m/m","South Africa",2026.01.29,11:30,1,0.2,0.1,0.0,ZAR
+"PPI y/y","South Africa",2026.01.29,11:30,1,2.9,2.0,2.9,ZAR
 "Industrial Sales m/m","Italy",2026.01.29,12:00,1,N/A,-0.2,-0.5,EUR
 "Industrial Sales  y/y","Italy",2026.01.29,12:00,1,N/A,3.3,1.7,EUR
 "Business Climate Indicator","European Union",2026.01.29,12:00,1,N/A,-0.40,-0.56,EUR
