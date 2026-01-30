@@ -178,8 +178,8 @@ Import Price Index m/m,Germany,2026.01.30,07:00,1,-0.1,-0.1,0.5,EUR
 Import Price Index y/y,Germany,2026.01.30,07:00,1,-2.3,-3.2,-1.9,EUR
 Export Price Index m/m,Germany,2026.01.30,07:00,1,-0.1,-0.1,0.2,EUR
 Export Price Index y/y,Germany,2026.01.30,07:00,1,0.0,0.0,0.3,EUR
-GDP q/q,Germany,2026.01.30,07:00,3,N/A,-0.4,0.0,EUR
-GDP y/y,Germany,2026.01.30,07:00,2,N/A,0.1,0.3,EUR
+GDP q/q,Germany,2026.01.30,07:00,3,0.3,-0.4,0.0,EUR
+GDP y/y,Germany,2026.01.30,07:00,2,0.6,0.1,0.3,EUR
 PPI m/m,France,2026.01.30,07:45,1,2.8,1.4,0.0,EUR
 Nonfarm Payrolls q/q,France,2026.01.30,07:45,1,-0.1,0.0,0.0,EUR
 KOF Economic Barometer,Switzerland,2026.01.30,08:00,2,102.5,100.3,103.4,CHF
@@ -192,15 +192,15 @@ GDP y/y,Spain,2026.01.30,08:00,1,2.6,2.8,2.8,EUR
 GDP q/q,Hong Kong,2026.01.30,08:30,1,1.0,0.3,0.7,HKD
 GDP y/y,Hong Kong,2026.01.30,08:30,1,3.8,3.4,3.8,HKD
 HKMA M3 Money Supply y/y,Hong Kong,2026.01.30,08:30,1,4.2,4.5,4.5,HKD
-Unemployment Change,Germany,2026.01.30,08:55,2,N/A,-3,3,EUR
-Unemployment Rate,Germany,2026.01.30,08:55,2,N/A,6.3,6.3,EUR
-Unemployment n.s.a.,Germany,2026.01.30,08:55,1,N/A,2.937,2.908,EUR
-Unemployment,Germany,2026.01.30,08:55,2,N/A,2.976,2.977,EUR
-NAV Unemployment Rate n.s.a.,Norway,2026.01.30,09:00,1,N/A,2.2,2.1,NOK
-NAV Unemployment Change,Norway,2026.01.30,09:00,1,N/A,45.631,22.714,NOK
-Current Account,Spain,2026.01.30,09:00,1,N/A,5.553,7.180,EUR
-GDP q/q,Italy,2026.01.30,09:00,1,N/A,0.2,0.1,EUR
-GDP y/y,Italy,2026.01.30,09:00,1,N/A,0.6,0.6,EUR
+Unemployment Change,Germany,2026.01.30,08:55,2,0,-3,3,EUR
+Unemployment Rate,Germany,2026.01.30,08:55,2,6.3,6.3,6.3,EUR
+Unemployment n.s.a.,Germany,2026.01.30,08:55,1,3.085,2.937,2.908,EUR
+Unemployment,Germany,2026.01.30,08:55,2,2.976,2.976,2.977,EUR
+NAV Unemployment Rate n.s.a.,Norway,2026.01.30,09:00,1,2.3,2.2,2.1,NOK
+NAV Unemployment Change,Norway,2026.01.30,09:00,1,76.849,45.631,22.714,NOK
+Current Account,Spain,2026.01.30,09:00,1,0.210,5.553,7.180,EUR
+GDP q/q,Italy,2026.01.30,09:00,1,0.3,0.2,0.1,EUR
+GDP y/y,Italy,2026.01.30,09:00,1,0.8,0.6,0.6,EUR
 BoE Consumer Credit m/m,United Kingdom,2026.01.30,09:30,1,N/A,1.410,2.077,GBP
 BoE M4 Money Supply m/m,United Kingdom,2026.01.30,09:30,1,N/A,0.6,0.8,GBP
 BoE Mortgage Approvals,United Kingdom,2026.01.30,09:30,1,N/A,64.664,64.530,GBP
