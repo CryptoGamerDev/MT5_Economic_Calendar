@@ -69,21 +69,21 @@ RBA Chart Pack,Australia,2026.02.04,01:30,1,N/A,N/A,N/A,AUD
 Silf/Swedbank Services PMI,Sweden,2026.02.04,07:30,1,54.3,59.2,56.7,SEK
 Silf/Swedbank Composite PMI,Sweden,2026.02.04,07:30,1,54.8,N/A,56.3,SEK
 Riksbank Monetary Policy Meeting Minutes,Sweden,2026.02.04,08:30,2,N/A,N/A,N/A,SEK
-HPI y/y,Norway,2026.02.04,10:00,1,N/A,5.2,5.0,NOK
+HPI y/y,Norway,2026.02.04,10:00,1,4.2,5.2,5.0,NOK
 HPI n.s.a. m/m,Norway,2026.02.04,10:00,1,N/A,N/A,-1.0,NOK
 HPI s.a. m/m,Norway,2026.02.04,10:00,1,N/A,N/A,0.0,NOK
 CPI m/m,Italy,2026.02.04,10:00,1,N/A,0.2,0.2,EUR
 CPI y/y,Italy,2026.02.04,10:00,1,N/A,1.0,1.2,EUR
 HICP m/m,Italy,2026.02.04,10:00,1,N/A,-0.2,0.2,EUR
 HICP y/y,Italy,2026.02.04,10:00,1,N/A,1.2,1.2,EUR
-PPI m/m,European Union,2026.02.04,10:00,1,N/A,1.0,0.5,EUR
-PPI y/y,European Union,2026.02.04,10:00,1,N/A,-3.3,-1.7,EUR
-Core CPI m/m,European Union,2026.02.04,10:00,1,N/A,0.0,0.3,EUR
-CPI m/m,European Union,2026.02.04,10:00,2,N/A,-0.1,0.2,EUR
-Core CPI y/y,European Union,2026.02.04,10:00,2,N/A,2.3,2.3,EUR
-CPI y/y,European Union,2026.02.04,10:00,3,N/A,2.0,1.9,EUR
-CPI excl. Energy and Unprocessed Food m/m,European Union,2026.02.04,10:00,1,N/A,0.0,0.2,EUR
-CPI excl. Energy and Unprocessed Food y/y,European Union,2026.02.04,10:00,1,N/A,2.3,2.3,EUR
+PPI m/m,European Union,2026.02.04,10:00,1,-0.3,1.0,0.5,EUR
+PPI y/y,European Union,2026.02.04,10:00,1,-2.1,-3.3,-1.7,EUR
+Core CPI m/m,European Union,2026.02.04,10:00,1,2.3,0.0,0.3,EUR
+CPI m/m,European Union,2026.02.04,10:00,2,2.0,-0.1,0.2,EUR
+Core CPI y/y,European Union,2026.02.04,10:00,2,2.4,2.3,2.3,EUR
+CPI y/y,European Union,2026.02.04,10:00,3,2.1,2.0,1.9,EUR
+CPI excl. Energy and Unprocessed Food m/m,European Union,2026.02.04,10:00,1,2.3,0.0,0.2,EUR
+CPI excl. Energy and Unprocessed Food y/y,European Union,2026.02.04,10:00,1,2.4,2.3,2.3,EUR
 CPI,European Union,2026.02.04,10:00,1,N/A,N/A,129.54,EUR
 Core CPI,European Union,2026.02.04,10:00,2,N/A,N/A,123.08,EUR
 RBI M3 Money Supply y/y,India,2026.02.04,10:30,1,N/A,N/A,N/A,INR
