@@ -58,6 +58,7 @@ Industrial Production y/y,Brazil,2026.02.03,12:00,2,0.4,-0.7,-1.2,BRL
 GDT Price Index,New Zealand,2026.02.03,14:00,1,6.7,0.3,1.5,NZD
 Bbk Executive Board Member Balz Speech,Germany,2026.02.03,14:50,2,N/A,N/A,N/A,EUR
 ECB President Lagarde Speech,European Union,2026.02.03,18:00,3,N/A,N/A,N/A,EUR
+Foreign Exchange Reserves,South Korea,2026.02.03,21:00,1,425.91,419.51,428.05,KRW
 Unemployment Rate,New Zealand,2026.02.03,21:45,1,5.4,5.4,5.3,NZD
 Participation Rate,New Zealand,2026.02.03,21:45,1,70.5,70.2,70.3,NZD
 Employment Change q/q,New Zealand,2026.02.03,21:45,3,0.5,-0.5,0.0,NZD
@@ -105,7 +106,6 @@ EIA Gasoline Stocks Change,United States,2026.02.04,15:30,1,0.685,-3.774,0.223,U
 EIA Refinery Crude Oil Daily Inputs Change,United States,2026.02.04,15:30,1,-0.180,N/A,-0.395,USD
 EIA Refinery Utilization Rate Change,United States,2026.02.04,15:30,1,-0.4,N/A,-2.4,USD
 Foreign Exchange Flows,Brazil,2026.02.04,17:30,1,N/A,N/A,N/A,BRL
-Foreign Exchange Reserves,South Korea,2026.02.04,21:00,1,N/A,419.51,428.05,KRW
 Fed Governor Cook Speech,United States,2026.02.04,23:30,2,N/A,N/A,N/A,USD
 Foreign Bond Investment,Japan,2026.02.04,23:50,1,713.7,N/A,177.6,JPY
 Foreign Investment in Japan Stocks,Japan,2026.02.04,23:50,1,494.6,N/A,328.1,JPY
