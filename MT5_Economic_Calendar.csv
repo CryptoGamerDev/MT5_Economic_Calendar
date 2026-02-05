@@ -130,13 +130,13 @@ BoE Interest Rate Decision,United Kingdom,2026.02.05,12:00,3,3.75,N/A,4.00,GBP
 BoE MPC Vote Cut,United Kingdom,2026.02.05,12:00,2,0,N/A,5,GBP
 BoE MPC Vote Hike,United Kingdom,2026.02.05,12:00,2,4,N/A,0,GBP
 BoE MPC Vote Unchanged,United Kingdom,2026.02.05,12:00,2,5,N/A,4,GBP
-ECB Deposit Facility Rate Decision,European Union,2026.02.05,13:15,3,N/A,N/A,2.00,EUR
-ECB Interest Rate Decision,European Union,2026.02.05,13:15,3,N/A,N/A,2.15,EUR
-ECB Marginal Lending Facility Rate Decision,European Union,2026.02.05,13:15,2,N/A,N/A,2.40,EUR
+ECB Deposit Facility Rate Decision,European Union,2026.02.05,13:15,3,2.00,N/A,2.00,EUR
+ECB Interest Rate Decision,European Union,2026.02.05,13:15,3,2.15,N/A,2.15,EUR
+ECB Marginal Lending Facility Rate Decision,European Union,2026.02.05,13:15,2,2.40,N/A,2.40,EUR
 ECB Monetary Policy Statement,European Union,2026.02.05,13:15,2,N/A,N/A,N/A,EUR
-Initial Jobless Claims,United States,2026.02.05,13:30,3,N/A,207,209,USD
-Continuing Jobless Claims,United States,2026.02.05,13:30,2,N/A,1.852,1.827,USD
-Initial Jobless Claims 4-Week Average,United States,2026.02.05,13:30,1,N/A,202.562,206.250,USD
+Initial Jobless Claims,United States,2026.02.05,13:30,3,231,207,209,USD
+Continuing Jobless Claims,United States,2026.02.05,13:30,2,1.844,1.852,1.827,USD
+Initial Jobless Claims 4-Week Average,United States,2026.02.05,13:30,1,212.250,202.562,206.250,USD
 ECB Monetary Policy Press Conference,European Union,2026.02.05,13:45,3,N/A,N/A,N/A,EUR
 BoE Governor Bailey Speech,United Kingdom,2026.02.05,14:15,3,N/A,N/A,N/A,GBP
 JOLTS Job Openings,United States,2026.02.05,15:00,3,N/A,7.536,7.146,USD
