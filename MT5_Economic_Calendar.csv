@@ -1,209 +1,200 @@
 Title,Country,Date,Time,Importance,Actual,Forecast,Previous,Currency
-Constitution Day,Mexico,2026.02.01,22:00,0,N/A,N/A,N/A,MXN
-BoJ Summary of Opinions,Japan,2026.02.01,23:50,2,N/A,N/A,N/A,JPY
-ANZ Job Advertisements m/m,Australia,2026.02.02,00:30,1,4.4,-0.4,-0.5,AUD
-RBA Index of Commodity Prices y/y,Australia,2026.02.02,05:30,1,2.6,1.7,-1.7,AUD
-Retail Sales m/m,Germany,2026.02.02,07:00,2,-0.5,0.0,0.3,EUR
-Retail Sales y/y,Germany,2026.02.02,07:00,1,1.3,1.2,1.6,EUR
-Nationwide HPI m/m,United Kingdom,2026.02.02,07:00,2,0.3,N/A,N/A,GBP
-Nationwide HPI y/y,United Kingdom,2026.02.02,07:00,2,1.0,N/A,N/A,GBP
-Silf/Swedbank Manufacturing PMI,Sweden,2026.02.02,07:30,1,56.0,57.0,55.3,SEK
-Retail Sales y/y,Switzerland,2026.02.02,07:30,1,N/A,N/A,N/A,CHF
-New Car Registrations m/m,France,2026.02.02,08:00,1,-38.0,N/A,N/A,EUR
-New Car Registrations y/y,France,2026.02.02,08:00,1,-6.6,N/A,N/A,EUR
-procure.ch Manufacturing PMI,Switzerland,2026.02.02,08:30,2,48.8,N/A,N/A,CHF
-Absa Manufacturing PMI,South Africa,2026.02.02,09:00,1,48.7,N/A,N/A,ZAR
-DNB/NIMA Manufacturing PMI,Norway,2026.02.02,09:00,1,N/A,N/A,N/A,NOK
-BCB Focus Market Report,Brazil,2026.02.02,11:30,2,N/A,N/A,N/A,BRL
-Total New Vehicle Sales,South Africa,2026.02.02,12:00,1,50.073,N/A,N/A,ZAR
-Total New Vehicle Sales m/m,South Africa,2026.02.02,12:00,1,2.2,N/A,N/A,ZAR
-Total New Vehicle Sales y/y,South Africa,2026.02.02,12:00,1,7.5,N/A,N/A,ZAR
-SIPMM PMI,Singapore,2026.02.02,13:00,1,50.3,50.3,50.3,SGD
-3-Month BTF Auction,France,2026.02.02,13:56,1,2.007,N/A,2.021,EUR
-6-Month BTF Auction,France,2026.02.02,13:56,1,2.036,N/A,2.045,EUR
-12-Month BTF Auction,France,2026.02.02,13:56,1,2.058,N/A,2.084,EUR
-ISM Manufacturing PMI,United States,2026.02.02,15:00,3,52.6,47.4,47.9,USD
-ISM Manufacturing Prices Paid,United States,2026.02.02,15:00,3,59.0,58.4,58.5,USD
-ISM Manufacturing Employment,United States,2026.02.02,15:00,2,48.1,45.5,44.9,USD
-ISM Manufacturing New Orders,United States,2026.02.02,15:00,1,57.1,42.3,47.7,USD
-3-Month Bill Auction,United States,2026.02.02,16:30,1,3.600,N/A,3.580,USD
-6-Month Bill Auction,United States,2026.02.02,16:30,1,3.525,N/A,3.525,USD
-New Car Registrations m/m,Italy,2026.02.02,17:00,1,N/A,N/A,N/A,EUR
-New Car Registrations y/y,Italy,2026.02.02,17:00,1,N/A,N/A,N/A,EUR
-Fed Senior Loan Officer Opinion Survey on Bank Lending Practices,United States,2026.02.02,19:00,1,N/A,N/A,N/A,USD
-Building Consents m/m,New Zealand,2026.02.02,21:45,1,-4.6,2.5,2.8,NZD
-CPI m/m,South Korea,2026.02.02,23:00,1,0.4,0.3,0.3,KRW
-CPI y/y,South Korea,2026.02.02,23:00,1,2.0,1.9,2.3,KRW
-BoJ Monetary Base y/y,Japan,2026.02.02,23:50,1,-9.5,-7.3,-9.8,JPY
-Building Approvals m/m,Australia,2026.02.03,00:30,2,-14.9,0.0,15.2,AUD
-Private House Approvals m/m,Australia,2026.02.03,00:30,1,0.4,N/A,1.3,AUD
-10-Year JGB Auction,Japan,2026.02.03,03:35,2,2.249,N/A,2.095,JPY
-RBA Monetary Policy Statement,Australia,2026.02.03,04:30,2,N/A,N/A,N/A,AUD
-RBA Rate Statement,Australia,2026.02.03,04:30,2,N/A,N/A,N/A,AUD
-RBA Interest Rate Decision,Australia,2026.02.03,04:30,3,3.85,N/A,3.60,AUD
-CPI m/m,France,2026.02.03,07:45,2,N/A,-0.4,0.1,EUR
-CPI y/y,France,2026.02.03,07:45,1,0.3,0.8,0.8,EUR
-HICP m/m,France,2026.02.03,07:45,2,N/A,-0.3,0.1,EUR
-HICP y/y,France,2026.02.03,07:45,1,0.4,0.6,0.7,EUR
-Government Budget Balance,France,2026.02.03,07:45,1,-122.5,N/A,-155.4,EUR
-FIPE CPI m/m,Brazil,2026.02.03,08:00,2,0.21,0.39,0.32,BRL
-Unemployment Change,Spain,2026.02.03,08:00,2,30.392,-33.216,-18.805,EUR
-Retail Sales y/y,Hong Kong,2026.02.03,08:30,1,6.6,8.0,6.5,HKD
-ECB Bank Lending Survey,European Union,2026.02.03,09:00,1,N/A,N/A,N/A,EUR
-6-Month Letras Auction,Spain,2026.02.03,09:57,1,1.973,N/A,1.981,EUR
-12-Month Letras Auction,Spain,2026.02.03,09:57,1,2.028,N/A,2.032,EUR
-10-Year Treasury Gilt Auction,United Kingdom,2026.02.03,10:30,1,4.585,N/A,4.456,GBP
-10-Year Bond Auction,Germany,2026.02.03,10:45,2,2.79,N/A,2.85,EUR
-Industrial Production m/m,Brazil,2026.02.03,12:00,1,-1.2,0.0,0.0,BRL
-Industrial Production y/y,Brazil,2026.02.03,12:00,2,0.4,-0.7,-1.2,BRL
-GDT Price Index,New Zealand,2026.02.03,14:00,1,6.7,0.3,1.5,NZD
-Bbk Executive Board Member Balz Speech,Germany,2026.02.03,14:50,2,N/A,N/A,N/A,EUR
-ECB President Lagarde Speech,European Union,2026.02.03,18:00,3,N/A,N/A,N/A,EUR
-Foreign Exchange Reserves,South Korea,2026.02.03,21:00,1,425.91,419.51,428.05,KRW
-Unemployment Rate,New Zealand,2026.02.03,21:45,1,5.4,5.4,5.3,NZD
-Participation Rate,New Zealand,2026.02.03,21:45,1,70.5,70.2,70.3,NZD
-Employment Change q/q,New Zealand,2026.02.03,21:45,3,0.5,-0.5,0.0,NZD
-Labor Cost Index q/q,New Zealand,2026.02.03,21:45,1,0.4,0.5,0.5,NZD
-Labor Cost Index y/y,New Zealand,2026.02.03,21:45,1,2.0,2.6,2.1,NZD
-ANZ Commodity Price Index m/m,New Zealand,2026.02.04,00:00,1,2.0,-0.1,-2.1,NZD
-RBA Chart Pack,Australia,2026.02.04,01:30,1,N/A,N/A,N/A,AUD
-Silf/Swedbank Services PMI,Sweden,2026.02.04,07:30,1,54.3,59.2,56.7,SEK
-Silf/Swedbank Composite PMI,Sweden,2026.02.04,07:30,1,54.8,N/A,56.3,SEK
-Riksbank Monetary Policy Meeting Minutes,Sweden,2026.02.04,08:30,2,N/A,N/A,N/A,SEK
-HPI y/y,Norway,2026.02.04,10:00,1,4.2,5.2,5.0,NOK
-HPI n.s.a. m/m,Norway,2026.02.04,10:00,1,3.6,N/A,-1.0,NOK
-HPI s.a. m/m,Norway,2026.02.04,10:00,1,0.6,N/A,0.0,NOK
-CPI m/m,Italy,2026.02.04,10:00,1,0.4,0.2,0.2,EUR
-CPI y/y,Italy,2026.02.04,10:00,1,1.0,1.0,1.2,EUR
-HICP m/m,Italy,2026.02.04,10:00,1,-1.0,-0.2,0.2,EUR
-HICP y/y,Italy,2026.02.04,10:00,1,1.0,1.2,1.2,EUR
-PPI m/m,European Union,2026.02.04,10:00,1,-0.3,1.0,0.5,EUR
-PPI y/y,European Union,2026.02.04,10:00,1,-2.1,-3.3,-1.7,EUR
-Core CPI m/m,European Union,2026.02.04,10:00,1,2.3,0.0,0.3,EUR
-CPI m/m,European Union,2026.02.04,10:00,2,2.0,-0.1,0.2,EUR
-Core CPI y/y,European Union,2026.02.04,10:00,2,2.4,2.3,2.3,EUR
-CPI y/y,European Union,2026.02.04,10:00,3,2.1,2.0,1.9,EUR
-CPI excl. Energy and Unprocessed Food m/m,European Union,2026.02.04,10:00,1,2.3,0.0,0.2,EUR
-CPI excl. Energy and Unprocessed Food y/y,European Union,2026.02.04,10:00,1,2.4,2.3,2.3,EUR
-CPI,European Union,2026.02.04,10:00,1,N/A,N/A,129.54,EUR
-Core CPI,European Union,2026.02.04,10:00,2,N/A,N/A,123.08,EUR
-RBI M3 Money Supply y/y,India,2026.02.04,10:30,1,N/A,N/A,N/A,INR
-New Car Registrations m/m,Germany,2026.02.04,11:19,1,-21.3,N/A,-1.7,EUR
-New Car Registrations y/y,Germany,2026.02.04,11:19,1,-6.6,N/A,9.7,EUR
-ADP Nonfarm Employment Change,United States,2026.02.04,13:15,3,22,7,41,USD
-ISM Non-Manufacturing PMI,United States,2026.02.04,15:00,3,53.8,51.8,54.4,USD
-ISM Non-Manufacturing Employment,United States,2026.02.04,15:00,2,50.3,50.2,52.0,USD
-ISM Non-Manufacturing New Orders,United States,2026.02.04,15:00,1,53.1,52.2,57.9,USD
-ISM Non-Manufacturing Prices Paid,United States,2026.02.04,15:00,3,66.6,67.5,64.3,USD
-ISM Non-Manufacturing Business Activity,United States,2026.02.04,15:00,1,57.4,52.8,56.0,USD
-EIA Crude Oil Stocks Change,United States,2026.02.04,15:30,3,-3.455,-1.007,-2.295,USD
-EIA Cushing Crude Oil Stocks Change,United States,2026.02.04,15:30,2,-0.743,0.083,-0.278,USD
-EIA Crude Oil Imports Change,United States,2026.02.04,15:30,1,1.101,0.332,-1.706,USD
-EIA Distillate Fuel Production Change,United States,2026.02.04,15:30,1,-0.005,0.059,-0.268,USD
-EIA Distillates Stocks Change,United States,2026.02.04,15:30,1,-5.553,-1.335,0.329,USD
-EIA Gasoline Production Change,United States,2026.02.04,15:30,1,-0.565,-0.502,0.791,USD
-EIA Heating Oil Stocks Change,United States,2026.02.04,15:30,1,-0.160,-0.151,0.026,USD
-EIA Gasoline Stocks Change,United States,2026.02.04,15:30,1,0.685,-3.774,0.223,USD
-EIA Refinery Crude Oil Daily Inputs Change,United States,2026.02.04,15:30,1,-0.180,N/A,-0.395,USD
-EIA Refinery Utilization Rate Change,United States,2026.02.04,15:30,1,-0.4,N/A,-2.4,USD
-Foreign Exchange Flows,Brazil,2026.02.04,17:30,1,N/A,N/A,N/A,BRL
-Fed Governor Cook Speech,United States,2026.02.04,23:30,2,N/A,N/A,N/A,USD
-Foreign Bond Investment,Japan,2026.02.04,23:50,1,713.7,N/A,177.6,JPY
-Foreign Investment in Japan Stocks,Japan,2026.02.04,23:50,1,494.6,N/A,328.1,JPY
-Exports m/m,Australia,2026.02.05,00:30,1,1.0,N/A,-2.9,AUD
-Imports m/m,Australia,2026.02.05,00:30,1,-0.8,N/A,0.2,AUD
-Trade Balance,Australia,2026.02.05,00:30,2,3.373,3.725,2.936,AUD
-30-Year JGB Auction,Japan,2026.02.05,03:35,1,3.615,N/A,3.447,JPY
-Factory Orders m/m,Germany,2026.02.05,07:00,2,7.8,-4.6,5.6,EUR
-Factory Orders y/y,Germany,2026.02.05,07:00,2,13.0,7.6,10.5,EUR
-Industrial Production m/m,France,2026.02.05,07:45,1,0.1,-0.5,0.2,EUR
-Retail Sales m/m,Italy,2026.02.05,09:00,1,-0.8,-0.3,0.5,EUR
-Retail Sales y/y,Italy,2026.02.05,09:00,1,0.9,0.4,1.3,EUR
-Retail Sales m/m,European Union,2026.02.05,10:00,1,-0.5,-0.1,0.2,EUR
-Retail Sales y/y,European Union,2026.02.05,10:00,1,1.3,1.3,2.3,EUR
-10-Year OAT Auction,France,2026.02.05,10:03,1,3.450,N/A,3.530,EUR
-3-Year Bonos Auction,Spain,2026.02.05,10:39,1,2.341,N/A,2.342,EUR
-Gross Fixed Investments m/m,Mexico,2026.02.05,12:00,1,0.4,0.5,0.9,MXN
-Gross Fixed Investments n.s.a. y/y,Mexico,2026.02.05,12:00,1,-5.7,-5.0,-5.8,MXN
-BoE Monetary Policy Report,United Kingdom,2026.02.05,12:00,2,N/A,N/A,N/A,GBP
-BoE MPC Meeting Minutes,United Kingdom,2026.02.05,12:00,2,N/A,N/A,N/A,GBP
-BoE Interest Rate Decision,United Kingdom,2026.02.05,12:00,3,3.75,N/A,4.00,GBP
-BoE MPC Vote Cut,United Kingdom,2026.02.05,12:00,2,0,N/A,5,GBP
-BoE MPC Vote Hike,United Kingdom,2026.02.05,12:00,2,4,N/A,0,GBP
-BoE MPC Vote Unchanged,United Kingdom,2026.02.05,12:00,2,5,N/A,4,GBP
-ECB Deposit Facility Rate Decision,European Union,2026.02.05,13:15,3,2.00,N/A,2.00,EUR
-ECB Interest Rate Decision,European Union,2026.02.05,13:15,3,2.15,N/A,2.15,EUR
-ECB Marginal Lending Facility Rate Decision,European Union,2026.02.05,13:15,2,2.40,N/A,2.40,EUR
-ECB Monetary Policy Statement,European Union,2026.02.05,13:15,2,N/A,N/A,N/A,EUR
-Initial Jobless Claims,United States,2026.02.05,13:30,3,231,207,209,USD
-Continuing Jobless Claims,United States,2026.02.05,13:30,2,1.844,1.852,1.827,USD
-Initial Jobless Claims 4-Week Average,United States,2026.02.05,13:30,1,212.250,202.562,206.250,USD
-ECB Monetary Policy Press Conference,European Union,2026.02.05,13:45,3,N/A,N/A,N/A,EUR
-BoE Governor Bailey Speech,United Kingdom,2026.02.05,14:15,3,N/A,N/A,N/A,GBP
-JOLTS Job Openings,United States,2026.02.05,15:00,3,6.542,7.536,7.146,USD
-ECB President Lagarde Speech,European Union,2026.02.05,15:15,3,N/A,N/A,N/A,EUR
-EIA Natural Gas Storage Change,United States,2026.02.05,15:30,1,-360,-177,-242,USD
-4-Week Bill Auction,United States,2026.02.05,16:30,1,3.630,N/A,3.630,USD
-8-Week Bill Auction,United States,2026.02.05,16:30,1,3.630,N/A,3.635,USD
-BoC Governor Macklem Speech,Canada,2026.02.05,17:25,3,N/A,N/A,N/A,CAD
-Trade Balance,Brazil,2026.02.05,18:00,1,4.343,3.454,9.633,BRL
-Bank of Mexico Interest Rate Decision,Mexico,2026.02.05,19:00,2,7.00,N/A,7.00,MXN
-Waitangi Day,New Zealand,2026.02.05,22:00,0,N/A,N/A,N/A,NZD
-Current Account,South Korea,2026.02.05,23:00,1,18.70,12.36,12.24,KRW
-Household Spending y/y,Japan,2026.02.05,23:30,2,-2.6,0.2,2.9,JPY
-Household Spending m/m,Japan,2026.02.05,23:30,2,-2.9,4.5,6.2,JPY
-International Reserves,Japan,2026.02.05,23:50,1,1394.8,N/A,1369.8,JPY
-RBI Interest Rate Decision,India,2026.02.06,04:30,2,5.25,N/A,N/A,INR
-RBI Reverse REPO Rate Decision,India,2026.02.06,04:30,1,N/A,N/A,N/A,INR
-RBI Cash Reserve Ratio,India,2026.02.06,04:30,1,N/A,N/A,N/A,INR
-Coincident Index,Japan,2026.02.06,05:00,1,114.5,115.9,114.9,JPY
-Leading Index,Japan,2026.02.06,05:00,1,110.2,110.9,109.9,JPY
-Coincident Index m/m,Japan,2026.02.06,05:00,1,-0.4,N/A,-1.0,JPY
-Leading Index m/m,Japan,2026.02.06,05:00,1,0.3,N/A,0.1,JPY
-Gross International Reserves,South Africa,2026.02.06,06:00,1,80.193,75.045,75.892,ZAR
-Net International Reserves,South Africa,2026.02.06,06:00,1,74.877,71.552,71.144,ZAR
-Unemployment Rate,Switzerland,2026.02.06,06:45,1,2.9,3.1,3.0,CHF
-Unemployment Rate n.s.a.,Switzerland,2026.02.06,06:45,1,3.2,3.2,3.1,CHF
-Halifax HPI m/m,United Kingdom,2026.02.06,07:00,2,N/A,N/A,N/A,GBP
-Halifax HPI y/y,United Kingdom,2026.02.06,07:00,2,N/A,N/A,N/A,GBP
-Manufacturing Production m/m,Norway,2026.02.06,07:00,1,-0.1,0.5,2.4,NOK
-Manufacturing Production y/y,Norway,2026.02.06,07:00,1,1.2,3.2,4.4,NOK
-Industrial Production m/m,Norway,2026.02.06,07:00,1,0.8,0.0,-2.2,NOK
-Industrial Production y/y,Norway,2026.02.06,07:00,1,2.3,0.4,2.0,NOK
-Industrial Production m/m,Germany,2026.02.06,07:00,2,-1.9,0.5,0.8,EUR
-Industrial Production y/y,Germany,2026.02.06,07:00,1,-0.6,-1.1,0.8,EUR
-Exports m/m,Germany,2026.02.06,07:00,1,4.0,-0.6,-2.5,EUR
-Imports m/m,Germany,2026.02.06,07:00,1,1.4,2.6,0.8,EUR
-Trade Balance,Germany,2026.02.06,07:00,2,17.1,15.3,13.0,EUR
-Trade Balance n.s.a.,Germany,2026.02.06,07:00,1,13.6,11.4,13.7,EUR
-Exports,France,2026.02.06,07:45,1,53.062,N/A,52.226,EUR
-Imports,France,2026.02.06,07:45,1,57.905,N/A,56.392,EUR
-Trade Balance,France,2026.02.06,07:45,1,-4.843,-6.360,-4.167,EUR
-Industrial Production y/y,Spain,2026.02.06,08:00,1,-0.3,2.6,4.5,EUR
-Foreign Exchange Reserves,Hong Kong,2026.02.06,08:30,1,435.6,426.2,427.9,HKD
-FGV IGP-DI Inflation Index m/m,Brazil,2026.02.06,11:00,1,0.20,0.19,0.10,BRL
-Bank Loan Growth y/y,India,2026.02.06,11:30,1,13.1,15.6,14.5,INR
-Deposit Growth y/y,India,2026.02.06,11:30,1,10.6,13.6,12.7,INR
-Foreign Exchange Reserves,India,2026.02.06,11:30,1,723.774,718.945,709.413,INR
-Consumer Confidence Indicator,Mexico,2026.02.06,12:00,1,44.0,44.0,44.7,MXN
-Consumer Confidence Indicator n.s.a.,Mexico,2026.02.06,12:00,1,44.3,N/A,44.8,MXN
-BoE MPC Member Pill Speech,United Kingdom,2026.02.06,12:15,2,N/A,N/A,N/A,GBP
-ANFAVEA Auto Production m/m,Brazil,2026.02.06,13:00,1,N/A,N/A,N/A,BRL
-ANFAVEA Auto Sales m/m,Brazil,2026.02.06,13:00,1,N/A,N/A,N/A,BRL
-Employment Change,Canada,2026.02.06,13:30,2,-24.8,-11.3,8.2,CAD
-Full-Time Employment Change,Canada,2026.02.06,13:30,1,44.9,N/A,50.2,CAD
-Part-Time Employment Change,Canada,2026.02.06,13:30,1,-69.7,N/A,-42.0,CAD
-Unemployment Rate,Canada,2026.02.06,13:30,2,6.5,7.0,6.8,CAD
-Participation Rate,Canada,2026.02.06,13:30,1,65.0,65.4,65.4,CAD
-Michigan Consumer Sentiment,United States,2026.02.06,15:00,2,57.3,55.1,56.4,USD
-Michigan Consumer Expectations,United States,2026.02.06,15:00,2,56.6,55.1,57.0,USD
-Michigan Current Conditions,United States,2026.02.06,15:00,1,58.3,54.0,55.4,USD
-Michigan Inflation Expectations,United States,2026.02.06,15:00,2,3.5,4.4,4.0,USD
-Michigan 5-Year Inflation Expectations,United States,2026.02.06,15:00,2,3.4,3.3,3.3,USD
-Fed Governor Jefferson Speech,United States,2026.02.06,17:00,2,N/A,N/A,N/A,USD
-Baker Hughes US Oil Rig Count,United States,2026.02.06,18:00,2,412,N/A,411,USD
-Baker Hughes US Total Rig Count,United States,2026.02.06,18:00,2,551,N/A,546,USD
-Fed Consumer Credit m/m,United States,2026.02.06,20:00,2,24.05,10.99,4.23,USD
-Foreign Exchange Reserves,China,2026.02.07,06:01,1,3.399,3.354,3.358,CNY
-BoE Governor Bailey Speech,United Kingdom,2026.02.08,06:40,3,N/A,N/A,N/A,GBP
-Foreign Exchange Reserves,Singapore,2026.02.08,16:00,1,N/A,412.500,409.276,SGD
+Labor Cash Earnings y/y,Japan,2026.02.08,23:30,1,N/A,2.2,0.5,JPY
+Overtime Pay y/y,Japan,2026.02.08,23:30,1,N/A,1.2,1.2,JPY
+Real Wage y/y,Japan,2026.02.08,23:30,1,N/A,-1.4,-2.8,JPY
+BoJ Bank Lending y/y,Japan,2026.02.08,23:50,1,N/A,4.7,4.4,JPY
+Current Account n.s.a.,Japan,2026.02.08,23:50,2,N/A,4681.2,3674.1,JPY
+Goods Trade Balance,Japan,2026.02.08,23:50,1,N/A,1769.2,625.3,JPY
+Adjusted Current Account,Japan,2026.02.08,23:50,2,N/A,2740.7,3137.8,JPY
+Economy Watchers Index for Current Conditions,Japan,2026.02.09,05:00,1,N/A,48.0,48.6,JPY
+Economy Watchers Index for Future Conditions,Japan,2026.02.09,05:00,1,N/A,50.9,50.5,JPY
+PPI m/m,Norway,2026.02.09,07:00,1,N/A,N/A,-1.5,NOK
+PPI y/y,Norway,2026.02.09,07:00,1,N/A,-6.5,-11.4,NOK
+GDP q/q,Norway,2026.02.09,07:00,1,N/A,0.1,1.1,NOK
+GDP y/y,Norway,2026.02.09,07:00,1,N/A,1.7,2.1,NOK
+GDP Mainland q/q,Norway,2026.02.09,07:00,1,N/A,0.2,0.1,NOK
+Consumer Climate,Switzerland,2026.02.09,08:00,1,N/A,-36,-37,CHF
+Foreign Currency Reserves,Switzerland,2026.02.09,08:00,1,N/A,N/A,N/A,CHF
+Sentix Investor Confidence,European Union,2026.02.09,09:30,1,N/A,-4.7,-1.8,EUR
+BCB Focus Market Report,Brazil,2026.02.09,11:30,2,N/A,N/A,N/A,BRL
+CPI m/m,Mexico,2026.02.09,12:00,2,N/A,0.28,0.28,MXN
+CPI y/y,Mexico,2026.02.09,12:00,2,N/A,3.86,3.69,MXN
+Core CPI m/m,Mexico,2026.02.09,12:00,1,N/A,0.32,0.41,MXN
+ECB Executive Board Member Lane Speech,European Union,2026.02.09,12:00,2,N/A,N/A,N/A,EUR
+3-Month BTF Auction,France,2026.02.09,13:50,1,N/A,N/A,2.007,EUR
+6-Month BTF Auction,France,2026.02.09,13:50,1,N/A,N/A,2.036,EUR
+12-Month BTF Auction,France,2026.02.09,13:50,1,N/A,N/A,2.058,EUR
+ECB President Lagarde Speech,European Union,2026.02.09,16:00,3,N/A,N/A,N/A,EUR
+3-Month Bill Auction,United States,2026.02.09,16:30,1,N/A,N/A,3.600,USD
+6-Month Bill Auction,United States,2026.02.09,16:30,1,N/A,N/A,3.525,USD
+Fed Governor Waller Speech,United States,2026.02.09,18:30,2,N/A,N/A,N/A,USD
+BoJ M2 Money Stock y/y,Japan,2026.02.09,23:50,1,N/A,1.4,1.7,JPY
+BoJ M3 Money Stock y/y,Japan,2026.02.09,23:50,1,N/A,N/A,1.1,JPY
+BoJ L Money Stock y/y,Japan,2026.02.09,23:50,3,N/A,2.0,2.1,JPY
+GDP q/q,Singapore,2026.02.10,00:00,1,N/A,1.9,1.9,SGD
+GDP y/y,Singapore,2026.02.10,00:00,1,N/A,5.7,5.7,SGD
+PBC New Loans,China,2026.02.10,01:00,2,N/A,N/A,N/A,CNY
+PBC M2 Money Stock y/y,China,2026.02.10,01:00,1,N/A,N/A,N/A,CNY
+PBC Outstanding Loan Growth y/y,China,2026.02.10,01:00,1,N/A,N/A,N/A,CNY
+Consumer Confidence,Norway,2026.02.10,05:30,1,N/A,-1.6,N/A,NOK
+Machine Tool Orders y/y,Japan,2026.02.10,06:00,1,N/A,N/A,N/A,JPY
+Unemployment Rate,France,2026.02.10,06:30,1,N/A,7.6,7.7,EUR
+CPI m/m,Norway,2026.02.10,07:00,1,N/A,-0.1,0.1,NOK
+CPI y/y,Norway,2026.02.10,07:00,1,N/A,3.3,3.2,NOK
+Core CPI m/m,Norway,2026.02.10,07:00,1,N/A,0.0,0.1,NOK
+Core CPI y/y,Norway,2026.02.10,07:00,1,N/A,3.1,3.1,NOK
+Industrial Production m/m,Sweden,2026.02.10,07:00,1,N/A,-3.3,-0.1,SEK
+Industrial Production y/y,Sweden,2026.02.10,07:00,1,N/A,-0.4,4.2,SEK
+Industrial New Orders m/m,Sweden,2026.02.10,07:00,1,N/A,3.0,11.9,SEK
+Industrial New Orders y/y,Sweden,2026.02.10,07:00,1,N/A,16.9,23.0,SEK
+Household Consumption m/m,Sweden,2026.02.10,07:00,1,N/A,N/A,1.0,SEK
+Household Consumption y/y,Sweden,2026.02.10,07:00,1,N/A,N/A,3.5,SEK
+Private Sector Production m/m,Sweden,2026.02.10,07:00,1,N/A,N/A,0.5,SEK
+Private Sector Production y/y,Sweden,2026.02.10,07:00,1,N/A,N/A,3.5,SEK
+3-Month Letras Auction,Spain,2026.02.10,09:40,1,N/A,N/A,1.954,EUR
+9-Month Letras Auction,Spain,2026.02.10,09:40,1,N/A,N/A,1.998,EUR
+5-Year Note Auction,Germany,2026.02.10,10:30,1,N/A,N/A,2.47,EUR
+5-Year Treasury Gilt Auction,United Kingdom,2026.02.10,10:30,1,N/A,N/A,3.821,GBP
+CPI m/m,Brazil,2026.02.10,12:00,1,N/A,0.53,0.33,BRL
+CPI y/y,Brazil,2026.02.10,12:00,2,N/A,4.24,4.26,BRL
+CPI s.a. m/m,Brazil,2026.02.10,12:00,1,N/A,N/A,0.26,BRL
+Employment Cost Index q/q,United States,2026.02.10,13:30,2,N/A,0.9,0.8,USD
+Employment Benefits q/q,United States,2026.02.10,13:30,1,N/A,1.1,0.8,USD
+Employment Wages q/q,United States,2026.02.10,13:30,1,N/A,0.8,0.8,USD
+Import Price Index m/m,United States,2026.02.10,13:30,2,N/A,N/A,N/A,USD
+Import Price Index y/y,United States,2026.02.10,13:30,1,N/A,-0.1,0.1,USD
+Export Price Index m/m,United States,2026.02.10,13:30,2,N/A,N/A,N/A,USD
+Export Price Index y/y,United States,2026.02.10,13:30,1,N/A,2.9,3.3,USD
+Import Price Index excl. Petroleum m/m,United States,2026.02.10,13:30,1,N/A,N/A,N/A,USD
+Retail Sales m/m,United States,2026.02.10,13:30,3,N/A,0.1,0.6,USD
+Core Retail Sales m/m,United States,2026.02.10,13:30,3,N/A,0.2,0.5,USD
+Retail Control m/m,United States,2026.02.10,13:30,2,N/A,0.1,0.4,USD
+Retail Sales excl. Autos and Gas m/m,United States,2026.02.10,13:30,1,N/A,0.4,0.4,USD
+Retail Sales y/y,United States,2026.02.10,13:30,1,N/A,2.7,3.3,USD
+Business Inventories m/m,United States,2026.02.10,15:00,2,N/A,0.1,0.3,USD
+Retail Inventories m/m,United States,2026.02.10,15:00,2,N/A,0.3,0.6,USD
+Retail Inventories excl. Autos m/m,United States,2026.02.10,15:00,2,N/A,N/A,0.3,USD
+Bbk Executive Board Member Balz Speech,Germany,2026.02.10,16:00,2,N/A,N/A,N/A,EUR
+EIA Short-Term Energy Outlook,United States,2026.02.10,17:00,2,N/A,N/A,N/A,USD
+NFIB Small Business Optimism,United States,2026.02.10,17:00,1,N/A,99.2,99.5,USD
+3-Year Note Auction,United States,2026.02.10,18:00,2,N/A,N/A,3.609,USD
+Unemployment Rate,South Korea,2026.02.10,23:00,1,N/A,3.3,4.0,KRW
+Home Loans m/m,Australia,2026.02.11,00:30,1,N/A,2.6,4.7,AUD
+Investment Housing Loans m/m,Australia,2026.02.11,00:30,1,N/A,N/A,17.6,AUD
+CPI m/m,China,2026.02.11,01:30,2,N/A,0.6,0.2,CNY
+CPI y/y,China,2026.02.11,01:30,2,N/A,0.2,0.8,CNY
+PPI y/y,China,2026.02.11,01:30,2,N/A,-1.3,-1.9,CNY
+Industrial Production m/m,Italy,2026.02.11,09:00,1,N/A,0.3,1.5,EUR
+Industrial Production y/y,Italy,2026.02.11,09:00,1,N/A,0.0,1.4,EUR
+30-Year Bond Auction,Germany,2026.02.11,10:30,1,N/A,N/A,3.49,EUR
+12-Month BOT Auction,Italy,2026.02.11,10:30,1,N/A,N/A,2.112,EUR
+Industrial Production m/m,Mexico,2026.02.11,12:00,1,N/A,0.1,0.6,MXN
+Industrial Production n.s.a. y/y,Mexico,2026.02.11,12:00,1,N/A,-0.5,-0.8,MXN
+PPI m/m,Brazil,2026.02.11,12:00,1,N/A,0.54,-0.37,BRL
+PPI y/y,Brazil,2026.02.11,12:00,1,N/A,-4.87,-3.38,BRL
+Building Permits m/m,Canada,2026.02.11,13:30,2,N/A,-2.0,-13.1,CAD
+Unemployment Rate,United States,2026.02.11,13:30,3,N/A,4.2,4.4,USD
+Nonfarm Payrolls,United States,2026.02.11,13:30,3,N/A,89,50,USD
+Participation Rate,United States,2026.02.11,13:30,2,N/A,62.4,62.4,USD
+Average Hourly Earnings m/m,United States,2026.02.11,13:30,3,N/A,0.3,0.3,USD
+Average Hourly Earnings y/y,United States,2026.02.11,13:30,2,N/A,3.7,3.8,USD
+Average Weekly Hours,United States,2026.02.11,13:30,1,N/A,34.2,34.2,USD
+Government Payrolls,United States,2026.02.11,13:30,1,N/A,16,13,USD
+Private Nonfarm Payrolls,United States,2026.02.11,13:30,2,N/A,61,37,USD
+U6 Unemployment Rate,United States,2026.02.11,13:30,2,N/A,8.5,8.4,USD
+Manufacturing Payrolls,United States,2026.02.11,13:30,1,N/A,-6,-8,USD
+Fed Governor Bowman Speech,United States,2026.02.11,15:15,2,N/A,N/A,N/A,USD
+EIA Crude Oil Stocks Change,United States,2026.02.11,15:30,3,N/A,-0.293,-3.455,USD
+EIA Cushing Crude Oil Stocks Change,United States,2026.02.11,15:30,2,N/A,0.124,-0.743,USD
+EIA Crude Oil Imports Change,United States,2026.02.11,15:30,1,N/A,-0.572,1.101,USD
+EIA Distillate Fuel Production Change,United States,2026.02.11,15:30,1,N/A,-0.087,-0.005,USD
+EIA Distillates Stocks Change,United States,2026.02.11,15:30,1,N/A,-2.918,-5.553,USD
+EIA Gasoline Production Change,United States,2026.02.11,15:30,1,N/A,0.038,-0.565,USD
+EIA Heating Oil Stocks Change,United States,2026.02.11,15:30,1,N/A,0.498,-0.160,USD
+EIA Gasoline Stocks Change,United States,2026.02.11,15:30,1,N/A,-2.520,0.685,USD
+EIA Refinery Crude Oil Daily Inputs Change,United States,2026.02.11,15:30,1,N/A,N/A,-0.180,USD
+EIA Refinery Utilization Rate Change,United States,2026.02.11,15:30,1,N/A,N/A,-0.4,USD
+Cleveland Fed Median CPI m/m,United States,2026.02.11,16:00,1,N/A,0.3,0.3,USD
+ECB Executive Board Member Schnabel Speech,European Union,2026.02.11,17:00,2,N/A,N/A,N/A,EUR
+Foreign Exchange Flows,Brazil,2026.02.11,17:30,1,N/A,N/A,N/A,BRL
+ECB Supervisory Board Member Tuominen Speech,European Union,2026.02.11,17:50,2,N/A,N/A,N/A,EUR
+10-Year Note Auction,United States,2026.02.11,18:00,3,N/A,N/A,4.173,USD
+Federal Budget Balance,United States,2026.02.11,19:00,2,N/A,N/A,N/A,USD
+BoJ Corporate Goods Price Index m/m,Japan,2026.02.11,23:50,1,N/A,0.1,0.1,JPY
+BoJ Corporate Goods Price Index y/y,Japan,2026.02.11,23:50,1,N/A,2.2,2.4,JPY
+RICS House Price Balance,United Kingdom,2026.02.12,00:01,2,N/A,-32.2,-14.0,GBP
+Foreign Direct Investment YTD y/y,China,2026.02.12,01:00,1,N/A,-9.4,N/A,CNY
+Registered Unemployment Rate,Sweden,2026.02.12,05:00,1,N/A,6.7,6.8,SEK
+IEA Monthly Oil Market Report,Worldwide,2026.02.12,09:00,2,N/A,N/A,N/A,ALL
+Mining Production m/m,South Africa,2026.02.12,09:30,1,N/A,3.4,-5.9,ZAR
+Mining Production y/y,South Africa,2026.02.12,09:30,1,N/A,-1.2,-2.7,ZAR
+Gold Production y/y,South Africa,2026.02.12,09:30,1,N/A,-1.2,-6.0,ZAR
+3-Year BTP Auction,Italy,2026.02.12,10:30,1,N/A,N/A,2.48,EUR
+7-Year BTP Auction,Italy,2026.02.12,10:30,1,N/A,N/A,3.00,EUR
+Manufacturing Production m/m,South Africa,2026.02.12,11:00,1,N/A,-0.1,-1.1,ZAR
+Manufacturing Production y/y,South Africa,2026.02.12,11:00,1,N/A,1.3,-1.0,ZAR
+NIESR GDP Estimate,United Kingdom,2026.02.12,12:00,1,N/A,N/A,N/A,GBP
+Services Volume m/m,Brazil,2026.02.12,12:00,1,N/A,-0.3,-0.1,BRL
+Services Volume y/y,Brazil,2026.02.12,12:00,1,N/A,2.4,2.5,BRL
+Current Account n.s.a.,Germany,2026.02.12,13:30,1,N/A,22.2,15.1,EUR
+Initial Jobless Claims,United States,2026.02.12,13:30,3,N/A,204,231,USD
+Continuing Jobless Claims,United States,2026.02.12,13:30,2,N/A,1.843,1.844,USD
+Initial Jobless Claims 4-Week Average,United States,2026.02.12,13:30,1,N/A,N/A,212.250,USD
+EIA Natural Gas Storage Change,United States,2026.02.12,15:30,1,N/A,-301,-360,USD
+30-Year Bond Auction,United States,2026.02.12,18:00,3,N/A,N/A,4.825,USD
+ECB Executive Board Member Lane Speech,European Union,2026.02.12,18:30,2,N/A,N/A,N/A,EUR
+BoC Senior Deputy Governor Rogers Speech,Canada,2026.02.12,18:45,2,N/A,N/A,N/A,CAD
+Bbk President Nagel Speech,Germany,2026.02.12,19:30,2,N/A,N/A,N/A,EUR
+Export Price Index y/y,South Korea,2026.02.12,21:00,1,N/A,8.4,5.5,KRW
+Import Price Index y/y,South Korea,2026.02.12,21:00,1,N/A,-0.4,0.3,KRW
+BusinessNZ Manufacturing Index,New Zealand,2026.02.12,21:30,2,N/A,N/A,N/A,NZD
+Visitor Arrivals m/m,New Zealand,2026.02.12,21:45,1,N/A,-3.0,0.8,NZD
+Net Permanent & Long-Term Migration,New Zealand,2026.02.12,21:45,1,N/A,2.163,0.990,NZD
+Visitor Arrivals y/y,New Zealand,2026.02.12,21:45,1,N/A,4.8,8.2,NZD
+Foreign Bond Investment,Japan,2026.02.12,23:50,1,N/A,N/A,713.7,JPY
+Foreign Investment in Japan Stocks,Japan,2026.02.12,23:50,1,N/A,N/A,494.6,JPY
+RBNZ 2-Year Inflation Expectations,New Zealand,2026.02.13,02:00,2,N/A,N/A,2.28,NZD
+BOK M2 Money Supply y/y,South Korea,2026.02.13,03:00,1,N/A,7.5,6.8,KRW
+BoJ Board Member Tamura Speech,Japan,2026.02.13,03:30,2,N/A,N/A,N/A,JPY
+Wholesale Price Index m/m,Germany,2026.02.13,07:00,1,N/A,0.2,-0.2,EUR
+Wholesale Price Index y/y,Germany,2026.02.13,07:00,1,N/A,1.2,1.2,EUR
+CPI m/m,Switzerland,2026.02.13,07:30,2,N/A,N/A,N/A,CHF
+CPI y/y,Switzerland,2026.02.13,07:30,1,N/A,N/A,N/A,CHF
+CPI m/m,Spain,2026.02.13,08:00,1,N/A,-0.4,-0.4,EUR
+CPI y/y,Spain,2026.02.13,08:00,2,N/A,2.4,2.4,EUR
+HICP m/m,Spain,2026.02.13,08:00,1,N/A,-0.7,-0.7,EUR
+HICP y/y,Spain,2026.02.13,08:00,2,N/A,2.5,2.5,EUR
+Employment Change q/q,European Union,2026.02.13,10:00,1,N/A,0.2,0.1,EUR
+Employment Change y/y,European Union,2026.02.13,10:00,1,N/A,0.6,0.5,EUR
+GDP q/q,European Union,2026.02.13,10:00,2,N/A,0.3,0.3,EUR
+GDP y/y,European Union,2026.02.13,10:00,2,N/A,1.3,1.3,EUR
+Trade Balance,European Union,2026.02.13,10:00,2,N/A,9.5,10.7,EUR
+Trade Balance n.s.a.,European Union,2026.02.13,10:00,2,N/A,21.9,9.9,EUR
+Employment Level,European Union,2026.02.13,10:00,2,N/A,N/A,172.049,EUR
+ECB Vice President de Guindos Speech,European Union,2026.02.13,10:00,2,N/A,N/A,N/A,EUR
+Trade Balance,India,2026.02.13,11:00,1,N/A,-27.24,-25.04,INR
+Exports,India,2026.02.13,11:00,1,N/A,38.01,38.51,INR
+Imports,India,2026.02.13,11:00,1,N/A,63.61,63.55,INR
+Foreign Exchange Reserves,India,2026.02.13,11:30,1,N/A,730.962,723.774,INR
+Retail Sales m/m,Brazil,2026.02.13,12:00,2,N/A,0.6,1.0,BRL
+Retail Sales y/y,Brazil,2026.02.13,12:00,2,N/A,2.4,1.3,BRL
+BoE MPC Member Pill Speech,United Kingdom,2026.02.13,12:00,2,N/A,N/A,N/A,GBP
+ECB Vice President de Guindos Speech,European Union,2026.02.13,12:00,2,N/A,N/A,N/A,EUR
+CPI m/m,United States,2026.02.13,13:30,3,N/A,0.2,0.3,USD
+Core CPI m/m,United States,2026.02.13,13:30,3,N/A,0.1,0.2,USD
+CPI y/y,United States,2026.02.13,13:30,3,N/A,2.5,2.7,USD
+Core CPI y/y,United States,2026.02.13,13:30,2,N/A,2.6,2.6,USD
+CPI n.s.a.,United States,2026.02.13,13:30,1,N/A,325.321,324.054,USD
+Core CPI,United States,2026.02.13,13:30,1,N/A,332.323,331.860,USD
+Real Earnings m/m,United States,2026.02.13,13:30,1,N/A,0.2,-0.3,USD
+CPI n.s.a. m/m,United States,2026.02.13,13:30,1,N/A,N/A,0.0,USD
+Core CPI n.s.a. m/m,United States,2026.02.13,13:30,3,N/A,N/A,0.0,USD
+CPI,United States,2026.02.13,13:30,3,N/A,326.277,326.030,USD
+Core CPI n.s.a.,United States,2026.02.13,13:30,1,N/A,N/A,330.506,USD
+Baker Hughes US Oil Rig Count,United States,2026.02.13,18:00,2,N/A,N/A,412,USD
+Baker Hughes US Total Rig Count,United States,2026.02.13,18:00,2,N/A,N/A,551,USD
+ECB President Lagarde Speech,European Union,2026.02.14,16:30,3,N/A,N/A,N/A,EUR
+ECB President Lagarde Speech,European Union,2026.02.15,09:30,3,N/A,N/A,N/A,EUR
+BusinessNZ Services Index,New Zealand,2026.02.15,21:30,1,N/A,N/A,51.5,NZD
+Electronic Card Retail Sales m/m,New Zealand,2026.02.15,21:45,2,N/A,0.3,-0.1,NZD
+Electronic Card Retail Sales y/y,New Zealand,2026.02.15,21:45,1,N/A,-1.2,-0.5,NZD
