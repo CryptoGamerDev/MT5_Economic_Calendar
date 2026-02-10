@@ -33,9 +33,6 @@ BoJ M3 Money Stock y/y,Japan,2026.02.09,23:50,1,1.0,N/A,1.1,JPY
 BoJ L Money Stock y/y,Japan,2026.02.09,23:50,3,2.0,2.0,2.1,JPY
 GDP q/q,Singapore,2026.02.10,00:00,1,2.1,1.9,1.9,SGD
 GDP y/y,Singapore,2026.02.10,00:00,1,6.9,5.7,5.7,SGD
-PBC New Loans,China,2026.02.10,01:00,2,N/A,N/A,N/A,CNY
-PBC M2 Money Stock y/y,China,2026.02.10,01:00,1,N/A,N/A,N/A,CNY
-PBC Outstanding Loan Growth y/y,China,2026.02.10,01:00,1,N/A,N/A,N/A,CNY
 Machine Tool Orders y/y,Japan,2026.02.10,06:00,1,N/A,N/A,N/A,JPY
 Unemployment Rate,France,2026.02.10,06:30,1,7.9,7.6,7.7,EUR
 CPI m/m,Norway,2026.02.10,07:00,1,N/A,-0.1,0.1,NOK
@@ -52,8 +49,8 @@ Private Sector Production m/m,Sweden,2026.02.10,07:00,1,8.8,N/A,0.5,SEK
 Private Sector Production y/y,Sweden,2026.02.10,07:00,1,19.4,N/A,3.5,SEK
 3-Month Letras Auction,Spain,2026.02.10,09:55,1,1.939,N/A,1.954,EUR
 9-Month Letras Auction,Spain,2026.02.10,09:55,1,2.015,N/A,1.998,EUR
-5-Year Note Auction,Germany,2026.02.10,10:30,1,N/A,N/A,2.47,EUR
-5-Year Treasury Gilt Auction,United Kingdom,2026.02.10,10:30,1,N/A,N/A,3.821,GBP
+5-Year Treasury Gilt Auction,United Kingdom,2026.02.10,10:30,1,4.001,N/A,3.821,GBP
+5-Year Note Auction,Germany,2026.02.10,10:45,1,2.40,N/A,2.47,EUR
 CPI m/m,Brazil,2026.02.10,12:00,1,N/A,0.53,0.33,BRL
 CPI y/y,Brazil,2026.02.10,12:00,2,N/A,4.24,4.26,BRL
 CPI s.a. m/m,Brazil,2026.02.10,12:00,1,N/A,N/A,0.26,BRL
@@ -80,6 +77,9 @@ NFIB Small Business Optimism,United States,2026.02.10,17:00,1,N/A,99.2,99.5,USD
 Unemployment Rate,South Korea,2026.02.10,23:00,1,N/A,3.3,4.0,KRW
 Home Loans m/m,Australia,2026.02.11,00:30,1,N/A,2.6,4.7,AUD
 Investment Housing Loans m/m,Australia,2026.02.11,00:30,1,N/A,N/A,17.6,AUD
+PBC New Loans,China,2026.02.11,01:00,2,N/A,N/A,N/A,CNY
+PBC M2 Money Stock y/y,China,2026.02.11,01:00,1,N/A,N/A,N/A,CNY
+PBC Outstanding Loan Growth y/y,China,2026.02.11,01:00,1,N/A,N/A,N/A,CNY
 CPI m/m,China,2026.02.11,01:30,2,N/A,0.6,0.2,CNY
 CPI y/y,China,2026.02.11,01:30,2,N/A,0.2,0.8,CNY
 PPI y/y,China,2026.02.11,01:30,2,N/A,-1.3,-1.9,CNY
@@ -124,21 +124,6 @@ BoJ Corporate Goods Price Index y/y,Japan,2026.02.11,23:50,1,N/A,2.2,2.4,JPY
 RICS House Price Balance,United Kingdom,2026.02.12,00:01,2,N/A,-32.2,-14.0,GBP
 Foreign Direct Investment YTD y/y,China,2026.02.12,01:00,1,N/A,-9.4,N/A,CNY
 Registered Unemployment Rate,Sweden,2026.02.12,05:00,1,N/A,6.7,6.8,SEK
-Construction Output m/m,United Kingdom,2026.02.12,07:00,1,N/A,-0.1,-1.3,GBP
-Construction Output y/y,United Kingdom,2026.02.12,07:00,1,N/A,0.2,-1.1,GBP
-Industrial Production m/m,United Kingdom,2026.02.12,07:00,2,N/A,1.4,1.1,GBP
-Industrial Production y/y,United Kingdom,2026.02.12,07:00,1,N/A,0.7,2.3,GBP
-Manufacturing Production m/m,United Kingdom,2026.02.12,07:00,2,N/A,0.3,2.1,GBP
-Manufacturing Production y/y,United Kingdom,2026.02.12,07:00,1,N/A,1.5,2.1,GBP
-Trade Balance,United Kingdom,2026.02.12,07:00,2,N/A,-20.910,-23.711,GBP
-Trade Balance Non-EU,United Kingdom,2026.02.12,07:00,2,N/A,-11.573,-11.457,GBP
-Index of Services,United Kingdom,2026.02.12,07:00,1,N/A,0.1,0.2,GBP
-Business Investment q/q,United Kingdom,2026.02.12,07:00,2,N/A,1.1,3.9,GBP
-Business Investment y/y,United Kingdom,2026.02.12,07:00,1,N/A,3.4,6.1,GBP
-GDP q/q,United Kingdom,2026.02.12,07:00,3,N/A,0.2,0.7,GBP
-GDP y/y,United Kingdom,2026.02.12,07:00,3,N/A,1.3,1.3,GBP
-GDP m/m,United Kingdom,2026.02.12,07:00,3,N/A,0.0,0.3,GBP
-GDP 3m/3m,United Kingdom,2026.02.12,07:00,2,N/A,N/A,0.1,GBP
 IEA Monthly Oil Market Report,Worldwide,2026.02.12,09:00,2,N/A,N/A,N/A,ALL
 Mining Production m/m,South Africa,2026.02.12,09:30,1,N/A,3.4,-5.9,ZAR
 Mining Production y/y,South Africa,2026.02.12,09:30,1,N/A,-1.2,-2.7,ZAR
