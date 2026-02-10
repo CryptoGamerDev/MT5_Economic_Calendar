@@ -210,12 +210,27 @@ Core CPI n.s.a.,United States,2026.02.13,13:30,1,N/A,N/A,330.506,USD
 Cleveland Fed Median CPI m/m,United States,2026.02.13,16:00,1,N/A,0.3,0.3,USD
 Baker Hughes US Oil Rig Count,United States,2026.02.13,18:00,2,N/A,N/A,412,USD
 Baker Hughes US Total Rig Count,United States,2026.02.13,18:00,2,N/A,N/A,551,USD
-CFTC AUD Non-Commercial Net Positions,Australia,2026.02.13,20:30,2,N/A,N/A,N/A,AUD
-CFTC BRL Non-Commercial Net Positions,Brazil,2026.02.13,20:30,2,N/A,N/A,N/A,BRL
-CFTC CAD Non-Commercial Net Positions,Canada,2026.02.13,20:30,1,N/A,N/A,N/A,CAD
-CFTC JPY Non-Commercial Net Positions,Japan,2026.02.13,20:30,2,N/A,N/A,N/A,JPY
-CFTC MXN Non-Commercial Net Positions,Mexico,2026.02.13,20:30,1,N/A,N/A,N/A,MXN
-CFTC NZD Non-Commercial Net Positions,New Zealand,2026.02.13,20:30,1,N/A,N/A,N/A,NZD
+CFTC AUD Non-Commercial Net Positions,Australia,2026.02.13,20:30,2,N/A,N/A,26.1,AUD
+CFTC BRL Non-Commercial Net Positions,Brazil,2026.02.13,20:30,2,N/A,N/A,31.0,BRL
+CFTC CAD Non-Commercial Net Positions,Canada,2026.02.13,20:30,1,N/A,N/A,2.1,CAD
+CFTC JPY Non-Commercial Net Positions,Japan,2026.02.13,20:30,2,N/A,N/A,-19.2,JPY
+CFTC MXN Non-Commercial Net Positions,Mexico,2026.02.13,20:30,1,N/A,N/A,90.6,MXN
+CFTC NZD Non-Commercial Net Positions,New Zealand,2026.02.13,20:30,1,N/A,N/A,-34.3,NZD
+CFTC ZAR Non-Commercial Net Positions,South Africa,2026.02.13,20:30,1,N/A,N/A,9.7,ZAR
+CFTC CHF Non-Commercial Net Positions,Switzerland,2026.02.13,20:30,1,N/A,N/A,-40.7,CHF
+CFTC GBP Non-Commercial Net Positions,United Kingdom,2026.02.13,20:30,2,N/A,N/A,-13.9,GBP
+CFTC Copper Non-Commercial Net Positions,United States,2026.02.13,20:30,1,N/A,N/A,47.8,USD
+CFTC Silver Non-Commercial Net Positions,United States,2026.02.13,20:30,1,N/A,N/A,25.9,USD
+CFTC Gold Non-Commercial Net Positions,United States,2026.02.13,20:30,2,N/A,N/A,165.6,USD
+CFTC Crude Oil Non-Commercial Net Positions,United States,2026.02.13,20:30,2,N/A,N/A,124.6,USD
+CFTC S&P 500 Non-Commercial Net Positions,United States,2026.02.13,20:30,2,N/A,N/A,-132.9,USD
+CFTC Aluminium Non-Commercial Net Positions,United States,2026.02.13,20:30,1,N/A,N/A,-2.9,USD
+CFTC Corn Non-Commercial Net Positions,United States,2026.02.13,20:30,1,N/A,N/A,-34.7,USD
+CFTC Natural Gas Non-Commercial Net Positions,United States,2026.02.13,20:30,1,N/A,N/A,-172.3,USD
+CFTC Soybeans Non-Commercial Net Positions,United States,2026.02.13,20:30,1,N/A,N/A,64.2,USD
+CFTC Wheat Non-Commercial Net Positions,United States,2026.02.13,20:30,1,N/A,N/A,-65.5,USD
+CFTC Nasdaq 100 Non-Commercial Net Positions,United States,2026.02.13,20:30,2,N/A,N/A,14.2,USD
+CFTC EUR Non-Commercial Net Positions,European Union,2026.02.13,20:30,2,N/A,N/A,163.4,EUR
 ECB President Lagarde Speech,European Union,2026.02.14,16:30,3,N/A,N/A,N/A,EUR
 ECB President Lagarde Speech,European Union,2026.02.15,09:30,3,N/A,N/A,N/A,EUR
 BusinessNZ Services Index,New Zealand,2026.02.15,21:30,1,N/A,N/A,51.5,NZD
