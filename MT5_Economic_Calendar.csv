@@ -100,16 +100,16 @@ Private Nonfarm Payrolls,United States,2026.02.11,13:30,2,172,61,37,USD
 U6 Unemployment Rate,United States,2026.02.11,13:30,2,8.0,8.5,8.4,USD
 Manufacturing Payrolls,United States,2026.02.11,13:30,1,5,-6,-8,USD
 Fed Governor Bowman Speech,United States,2026.02.11,15:15,2,N/A,N/A,N/A,USD
-EIA Crude Oil Stocks Change,United States,2026.02.11,15:30,3,N/A,-0.293,-3.455,USD
-EIA Cushing Crude Oil Stocks Change,United States,2026.02.11,15:30,2,N/A,0.124,-0.743,USD
-EIA Crude Oil Imports Change,United States,2026.02.11,15:30,1,N/A,-0.572,1.101,USD
-EIA Distillate Fuel Production Change,United States,2026.02.11,15:30,1,N/A,-0.087,-0.005,USD
-EIA Distillates Stocks Change,United States,2026.02.11,15:30,1,N/A,-2.918,-5.553,USD
-EIA Gasoline Production Change,United States,2026.02.11,15:30,1,N/A,0.038,-0.565,USD
-EIA Heating Oil Stocks Change,United States,2026.02.11,15:30,1,N/A,0.498,-0.160,USD
-EIA Gasoline Stocks Change,United States,2026.02.11,15:30,1,N/A,-2.520,0.685,USD
-EIA Refinery Crude Oil Daily Inputs Change,United States,2026.02.11,15:30,1,N/A,N/A,-0.180,USD
-EIA Refinery Utilization Rate Change,United States,2026.02.11,15:30,1,N/A,N/A,-0.4,USD
+EIA Crude Oil Stocks Change,United States,2026.02.11,15:30,3,8.530,-0.293,-3.455,USD
+EIA Cushing Crude Oil Stocks Change,United States,2026.02.11,15:30,2,1.071,0.124,-0.743,USD
+EIA Crude Oil Imports Change,United States,2026.02.11,15:30,1,0.912,-0.572,1.101,USD
+EIA Distillate Fuel Production Change,United States,2026.02.11,15:30,1,0.045,-0.087,-0.005,USD
+EIA Distillates Stocks Change,United States,2026.02.11,15:30,1,-2.703,-2.918,-5.553,USD
+EIA Gasoline Production Change,United States,2026.02.11,15:30,1,0.139,0.038,-0.565,USD
+EIA Heating Oil Stocks Change,United States,2026.02.11,15:30,1,0.202,0.498,-0.160,USD
+EIA Gasoline Stocks Change,United States,2026.02.11,15:30,1,1.160,-2.520,0.685,USD
+EIA Refinery Crude Oil Daily Inputs Change,United States,2026.02.11,15:30,1,-0.029,N/A,-0.180,USD
+EIA Refinery Utilization Rate Change,United States,2026.02.11,15:30,1,-1.1,N/A,-0.4,USD
 ECB Executive Board Member Schnabel Speech,European Union,2026.02.11,17:00,2,N/A,N/A,N/A,EUR
 Foreign Exchange Flows,Brazil,2026.02.11,17:30,1,N/A,N/A,N/A,BRL
 ECB Supervisory Board Member Tuominen Speech,European Union,2026.02.11,17:50,2,N/A,N/A,N/A,EUR
