@@ -1,11 +1,11 @@
 Title,Country,Date,Time,Importance,Actual,Forecast,Previous,Currency
 Washington's Birthday,United States,2026.02.15,22:00,0,N/A,N/A,N/A,USD
-GDP q/q,Japan,2026.02.15,23:50,3,N/A,-1.2,-0.6,JPY
-GDP Price Index y/y,Japan,2026.02.15,23:50,2,N/A,4.6,3.4,JPY
-GDP y/y,Japan,2026.02.15,23:50,2,N/A,-3.7,-2.3,JPY
-Private Non-Residential Investment q/q,Japan,2026.02.15,23:50,1,N/A,0.4,-0.2,JPY
-Private Consumption q/q,Japan,2026.02.15,23:50,1,N/A,-0.1,0.2,JPY
-Net Exports Contribution to GDP q/q,Japan,2026.02.15,23:50,2,N/A,0.4,-0.2,JPY
+GDP q/q,Japan,2026.02.15,23:50,3,0.1,-1.2,-0.6,JPY
+GDP Price Index y/y,Japan,2026.02.15,23:50,2,3.4,4.6,3.4,JPY
+GDP y/y,Japan,2026.02.15,23:50,2,0.2,-3.7,-2.3,JPY
+Private Non-Residential Investment q/q,Japan,2026.02.15,23:50,1,0.2,0.4,-0.2,JPY
+Private Consumption q/q,Japan,2026.02.15,23:50,1,0.1,-0.1,0.2,JPY
+Net Exports Contribution to GDP q/q,Japan,2026.02.15,23:50,2,0.0,0.4,-0.2,JPY
 Trade Balance,Singapore,2026.02.16,00:30,1,N/A,4.921,2.206,SGD
 Non-Oil Domestic Exports m/m,Singapore,2026.02.16,00:30,1,N/A,6.1,-9.4,SGD
 Non-Oil Domestic Exports y/y,Singapore,2026.02.16,00:30,1,N/A,16.4,6.1,SGD
