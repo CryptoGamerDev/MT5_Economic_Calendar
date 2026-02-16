@@ -9,9 +9,6 @@ Net Exports Contribution to GDP q/q,Japan,2026.02.15,23:50,2,0.0,0.4,-0.2,JPY
 Trade Balance,Singapore,2026.02.16,00:30,1,12.534,4.921,2.206,SGD
 Non-Oil Domestic Exports m/m,Singapore,2026.02.16,00:30,1,0.7,6.1,-9.4,SGD
 Non-Oil Domestic Exports y/y,Singapore,2026.02.16,00:30,1,N/A,16.4,6.1,SGD
-PBC New Loans,China,2026.02.16,01:00,2,N/A,N/A,N/A,CNY
-PBC M2 Money Stock y/y,China,2026.02.16,01:00,1,N/A,N/A,N/A,CNY
-PBC Outstanding Loan Growth y/y,China,2026.02.16,01:00,1,N/A,N/A,N/A,CNY
 Exports y/y,South Korea,2026.02.16,02:00,1,N/A,33.9,33.9,KRW
 Imports y/y,South Korea,2026.02.16,02:00,1,N/A,11.7,11.7,KRW
 Trade Balance,South Korea,2026.02.16,02:00,1,N/A,8.740,8.740,KRW
@@ -22,7 +19,7 @@ Goods Trade Balance,Norway,2026.02.16,07:00,1,75.911,46.239,42.912,NOK
 Unemployment Rate,Sweden,2026.02.16,07:00,1,8.6,8.9,8.3,SEK
 Industrial Production m/m,European Union,2026.02.16,10:00,2,-1.4,0.0,0.7,EUR
 Industrial Production y/y,European Union,2026.02.16,10:00,1,1.2,1.7,2.5,EUR
-Official Reserve Assets,European Union,2026.02.16,11:00,1,N/A,N/A,1776.140,EUR
+Official Reserve Assets,European Union,2026.02.16,11:00,1,1987.130,N/A,1776.140,EUR
 BCB Focus Market Report,Brazil,2026.02.16,11:30,2,N/A,N/A,N/A,BRL
 CMHC Housing Starts,Canada,2026.02.16,13:15,2,N/A,239.724,282.439,CAD
 Fed Governor Bowman Speech,United States,2026.02.16,13:25,2,N/A,N/A,N/A,USD
@@ -32,6 +29,9 @@ Manufacturing Sales m/m,Canada,2026.02.16,13:30,1,N/A,-0.3,-1.2,CAD
 12-Month BTF Auction,France,2026.02.16,13:50,1,N/A,N/A,2.038,EUR
 Food Price Index m/m,New Zealand,2026.02.16,21:45,1,N/A,0.6,-0.3,NZD
 Foreign Direct Investment YTD y/y,China,2026.02.17,01:00,1,N/A,N/A,N/A,CNY
+PBC New Loans,China,2026.02.17,01:00,2,N/A,N/A,N/A,CNY
+PBC M2 Money Stock y/y,China,2026.02.17,01:00,1,N/A,N/A,N/A,CNY
+PBC Outstanding Loan Growth y/y,China,2026.02.17,01:00,1,N/A,N/A,N/A,CNY
 RBA Meeting Minutes,Australia,2026.02.17,01:30,2,N/A,N/A,N/A,AUD
 Tertiary Industry Activity Index m/m,Japan,2026.02.17,04:30,2,N/A,N/A,N/A,JPY
 Consumer Confidence,Norway,2026.02.17,05:30,1,N/A,N/A,N/A,NOK
