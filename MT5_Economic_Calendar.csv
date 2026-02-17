@@ -83,24 +83,6 @@ PBC M2 Money Stock y/y,China,2026.02.18,01:00,1,N/A,N/A,N/A,CNY
 PBC Outstanding Loan Growth y/y,China,2026.02.18,01:00,1,N/A,N/A,N/A,CNY
 RBNZ Non-Resident Debt Holdings,New Zealand,2026.02.18,02:00,1,N/A,58.0,57.5,NZD
 Consumer Confidence,Norway,2026.02.18,05:30,1,N/A,N/A,N/A,NOK
-PPI Input m/m,United Kingdom,2026.02.18,07:00,2,N/A,-0.7,-0.2,GBP
-PPI Input y/y,United Kingdom,2026.02.18,07:00,1,N/A,1.6,0.8,GBP
-PPI Output m/m,United Kingdom,2026.02.18,07:00,1,N/A,0.0,0.0,GBP
-PPI Output y/y,United Kingdom,2026.02.18,07:00,1,N/A,3.8,3.4,GBP
-Core PPI Output m/m,United Kingdom,2026.02.18,07:00,1,N/A,0.1,-0.1,GBP
-Core PPI Output y/y,United Kingdom,2026.02.18,07:00,1,N/A,3.7,3.2,GBP
-CPI m/m,United Kingdom,2026.02.18,07:00,2,N/A,0.3,0.4,GBP
-CPI y/y,United Kingdom,2026.02.18,07:00,3,N/A,3.8,3.4,GBP
-Core CPI y/y,United Kingdom,2026.02.18,07:00,1,N/A,3.4,3.2,GBP
-Core RPI m/m,United Kingdom,2026.02.18,07:00,1,N/A,0.4,0.7,GBP
-Core RPI y/y,United Kingdom,2026.02.18,07:00,1,N/A,5.0,4.1,GBP
-RPI m/m,United Kingdom,2026.02.18,07:00,1,N/A,0.3,0.7,GBP
-RPI y/y,United Kingdom,2026.02.18,07:00,1,N/A,4.6,4.2,GBP
-CPIH y/y,United Kingdom,2026.02.18,07:00,2,N/A,3.9,3.6,GBP
-CPIH m/m,United Kingdom,2026.02.18,07:00,2,N/A,0.5,0.4,GBP
-Core CPI m/m,United Kingdom,2026.02.18,07:00,1,N/A,0.3,0.3,GBP
-CPI,United Kingdom,2026.02.18,07:00,1,N/A,N/A,140.1,GBP
-CPIH,United Kingdom,2026.02.18,07:00,1,N/A,N/A,139.9,GBP
 CPI m/m,France,2026.02.18,07:45,2,N/A,N/A,N/A,EUR
 CPI y/y,France,2026.02.18,07:45,1,N/A,0.3,0.3,EUR
 HICP m/m,France,2026.02.18,07:45,2,N/A,N/A,N/A,EUR
@@ -109,6 +91,7 @@ CPI m/m,South Africa,2026.02.18,08:00,1,N/A,0.1,0.2,ZAR
 CPI y/y,South Africa,2026.02.18,08:00,1,N/A,3.3,3.6,ZAR
 Core CPI m/m,South Africa,2026.02.18,08:00,1,N/A,0.3,0.1,ZAR
 Core CPI y/y,South Africa,2026.02.18,08:00,1,N/A,3.3,3.3,ZAR
+HPI y/y,United Kingdom,2026.02.18,09:30,1,N/A,1.9,2.5,GBP
 HPI y/y,United Kingdom,2026.02.18,09:30,1,N/A,1.9,2.5,GBP
 RBI M3 Money Supply y/y,India,2026.02.18,10:30,1,N/A,N/A,N/A,INR
 10-Year Bond Auction,Germany,2026.02.18,10:30,2,N/A,N/A,2.79,EUR
@@ -229,12 +212,6 @@ HICP y/y,Sweden,2026.02.20,07:00,1,N/A,N/A,2.1,SEK
 Capacity Utilization q/q,Sweden,2026.02.20,07:00,1,N/A,-0.1,-0.2,SEK
 PPI m/m,Germany,2026.02.20,07:00,2,N/A,0.2,-0.2,EUR
 PPI y/y,Germany,2026.02.20,07:00,1,N/A,-2.4,-2.5,EUR
-Retail Sales m/m,United Kingdom,2026.02.20,07:00,2,N/A,-0.2,0.4,GBP
-Retail Sales y/y,United Kingdom,2026.02.20,07:00,2,N/A,1.5,2.5,GBP
-Core Retail Sales m/m,United Kingdom,2026.02.20,07:00,2,N/A,0.0,0.3,GBP
-Core Retail Sales y/y,United Kingdom,2026.02.20,07:00,2,N/A,1.9,3.1,GBP
-Public Sector Net Borrowing,United Kingdom,2026.02.20,07:00,1,N/A,17.226,11.578,GBP
-Public Sector Net Cash Requirement,United Kingdom,2026.02.20,07:00,1,N/A,6.410,16.908,GBP
 S&P Global Manufacturing PMI,France,2026.02.20,08:15,2,N/A,N/A,N/A,EUR
 S&P Global Services PMI,France,2026.02.20,08:15,2,N/A,N/A,N/A,EUR
 S&P Global Composite PMI,France,2026.02.20,08:15,1,N/A,N/A,N/A,EUR
