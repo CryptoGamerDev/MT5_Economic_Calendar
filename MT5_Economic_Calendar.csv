@@ -92,19 +92,19 @@ RBI M3 Money Supply y/y,India,2026.02.18,10:30,1,N/A,N/A,N/A,INR
 10-Year Bond Auction,Germany,2026.02.18,10:45,2,2.73,N/A,2.79,EUR
 Retail Sales m/m,South Africa,2026.02.18,11:00,1,-0.4,-0.6,0.6,ZAR
 Retail Sales y/y,South Africa,2026.02.18,11:00,1,2.6,2.9,3.5,ZAR
-Housing Starts,United States,2026.02.18,13:30,2,N/A,1.333,1.246,USD
-Housing Starts,United States,2026.02.18,13:30,2,N/A,N/A,N/A,USD
-Building Permits,United States,2026.02.18,13:30,2,N/A,1.372,1.412,USD
-Building Permits,United States,2026.02.18,13:30,2,N/A,N/A,N/A,USD
-Durable Goods Orders m/m,United States,2026.02.18,13:30,3,N/A,-3.2,5.3,USD
-Core Durable Goods Orders m/m,United States,2026.02.18,13:30,2,N/A,0.3,0.5,USD
-Housing Starts m/m,United States,2026.02.18,13:30,2,N/A,-6.6,-4.6,USD
-Housing Starts m/m,United States,2026.02.18,13:30,2,N/A,N/A,N/A,USD
-Building Permits m/m,United States,2026.02.18,13:30,1,N/A,0.0,-0.2,USD
-Building Permits m/m,United States,2026.02.18,13:30,1,N/A,N/A,N/A,USD
-Durable Goods Orders excl. Defense m/m,United States,2026.02.18,13:30,1,N/A,-2.0,6.6,USD
-Nondefense Capital Goods Orders excl. Aircraft m/m,United States,2026.02.18,13:30,1,N/A,0.3,0.7,USD
-Nondefense Capital Goods Shipments excl. Aircraft m/m,United States,2026.02.18,13:30,1,N/A,-0.3,0.2,USD
+Housing Starts,United States,2026.02.18,13:30,2,1.322,1.333,1.246,USD
+Housing Starts,United States,2026.02.18,13:30,2,1.404,1.340,1.322,USD
+Building Permits,United States,2026.02.18,13:30,2,1.388,1.372,1.412,USD
+Building Permits,United States,2026.02.18,13:30,2,1.448,1.441,1.388,USD
+Durable Goods Orders m/m,United States,2026.02.18,13:30,3,-1.4,-3.2,5.3,USD
+Core Durable Goods Orders m/m,United States,2026.02.18,13:30,2,0.9,0.3,0.5,USD
+Housing Starts m/m,United States,2026.02.18,13:30,2,3.9,-6.6,-4.6,USD
+Housing Starts m/m,United States,2026.02.18,13:30,2,6.2,-0.4,3.9,USD
+Building Permits m/m,United States,2026.02.18,13:30,1,-1.6,0.0,-0.2,USD
+Building Permits m/m,United States,2026.02.18,13:30,1,4.3,0.1,-1.6,USD
+Durable Goods Orders excl. Defense m/m,United States,2026.02.18,13:30,1,-2.5,-2.0,6.6,USD
+Nondefense Capital Goods Orders excl. Aircraft m/m,United States,2026.02.18,13:30,1,0.6,0.3,0.7,USD
+Nondefense Capital Goods Shipments excl. Aircraft m/m,United States,2026.02.18,13:30,1,0.9,-0.3,0.2,USD
 Fed Industrial Production m/m,United States,2026.02.18,14:15,2,N/A,0.1,0.4,USD
 Fed Capacity Utilization Rate,United States,2026.02.18,14:15,1,N/A,76.2,76.3,USD
 Fed Manufacturing Production m/m,United States,2026.02.18,14:15,1,N/A,0.1,0.2,USD
