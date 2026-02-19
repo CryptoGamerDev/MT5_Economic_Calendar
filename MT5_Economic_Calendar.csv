@@ -150,9 +150,9 @@ Goods Trade Balance,United States,2026.02.19,13:30,2,N/A,-94.837,-85.541,USD
 Imports,Canada,2026.02.19,13:30,1,N/A,N/A,66.140,CAD
 Exports,Canada,2026.02.19,13:30,1,N/A,N/A,63.943,CAD
 Trade Balance,Canada,2026.02.19,13:30,2,N/A,-1.481,-2.197,CAD
-Initial Jobless Claims,United States,2026.02.19,13:30,3,N/A,205,227,USD
-Continuing Jobless Claims,United States,2026.02.19,13:30,2,N/A,1.841,1.862,USD
-Initial Jobless Claims 4-Week Average,United States,2026.02.19,13:30,1,N/A,225.701,219.500,USD
+Initial Jobless Claims,United States,2026.02.19,13:30,3,206,205,227,USD
+Continuing Jobless Claims,United States,2026.02.19,13:30,2,1.869,1.841,1.862,USD
+Initial Jobless Claims 4-Week Average,United States,2026.02.19,13:30,1,219.000,225.701,219.500,USD
 New Housing Price Index m/m,Canada,2026.02.19,13:30,2,N/A,-0.2,-0.2,CAD
 Trade Balance,United States,2026.02.19,13:30,2,N/A,-43.223,-56.825,USD
 Wholesale Inventories m/m,United States,2026.02.19,13:30,1,N/A,0.1,0.2,USD
@@ -161,8 +161,8 @@ Exports,United States,2026.02.19,13:30,2,N/A,N/A,292.052,USD
 Imports,United States,2026.02.19,13:30,2,N/A,N/A,348.877,USD
 Retail Inventories m/m,United States,2026.02.19,13:30,2,N/A,0.1,-0.1,USD
 Retail Inventories excl. Autos m/m,United States,2026.02.19,13:30,2,N/A,N/A,0.2,USD
-Philadelphia Fed Manufacturing Index,United States,2026.02.19,13:30,3,N/A,3.0,12.6,USD
-Philadelphia Fed Employment,United States,2026.02.19,13:30,2,N/A,5.0,9.7,USD
+Philadelphia Fed Manufacturing Index,United States,2026.02.19,13:30,3,16.3,3.0,12.6,USD
+Philadelphia Fed Employment,United States,2026.02.19,13:30,2,-1.3,5.0,9.7,USD
 Philadelphia Fed Business Conditions,United States,2026.02.19,13:30,1,N/A,28.4,25.5,USD
 Philadelphia Fed Prices Paid,United States,2026.02.19,13:30,1,N/A,42.3,46.9,USD
 Philadelphia Fed New Orders,United States,2026.02.19,13:30,1,N/A,6.2,14.4,USD
