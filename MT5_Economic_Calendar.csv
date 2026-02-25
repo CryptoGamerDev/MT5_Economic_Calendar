@@ -96,16 +96,16 @@ Core CPI,European Union,2026.02.25,10:00,2,99.79,N/A,N/A,EUR
 Corporate Profits q/q,Canada,2026.02.25,13:30,1,1.0,N/A,3.8,CAD
 Current Account,Mexico,2026.02.25,15:00,1,7.702,0.392,2.325,MXN
 Current Account - GDP Ratio,Mexico,2026.02.25,15:00,1,1.55,0.20,0.49,MXN
-EIA Crude Oil Stocks Change,United States,2026.02.25,15:30,3,N/A,-3.052,-9.014,USD
-EIA Cushing Crude Oil Stocks Change,United States,2026.02.25,15:30,2,N/A,0.256,-1.095,USD
-EIA Crude Oil Imports Change,United States,2026.02.25,15:30,1,N/A,0.077,-1.132,USD
-EIA Distillate Fuel Production Change,United States,2026.02.25,15:30,1,N/A,-0.210,0.028,USD
-EIA Distillates Stocks Change,United States,2026.02.25,15:30,1,N/A,-3.485,-4.566,USD
-EIA Gasoline Production Change,United States,2026.02.25,15:30,1,N/A,-0.089,0.290,USD
-EIA Heating Oil Stocks Change,United States,2026.02.25,15:30,1,N/A,-0.171,0.362,USD
-EIA Gasoline Stocks Change,United States,2026.02.25,15:30,1,N/A,-1.042,-3.213,USD
-EIA Refinery Crude Oil Daily Inputs Change,United States,2026.02.25,15:30,1,N/A,N/A,0.077,USD
-EIA Refinery Utilization Rate Change,United States,2026.02.25,15:30,1,N/A,N/A,1.6,USD
+EIA Crude Oil Stocks Change,United States,2026.02.25,15:30,3,15.989,-3.052,-9.014,USD
+EIA Cushing Crude Oil Stocks Change,United States,2026.02.25,15:30,2,0.881,0.256,-1.095,USD
+EIA Crude Oil Imports Change,United States,2026.02.25,15:30,1,0.412,0.077,-1.132,USD
+EIA Distillate Fuel Production Change,United States,2026.02.25,15:30,1,-0.136,-0.210,0.028,USD
+EIA Distillates Stocks Change,United States,2026.02.25,15:30,1,0.252,-3.485,-4.566,USD
+EIA Gasoline Production Change,United States,2026.02.25,15:30,1,-0.223,-0.089,0.290,USD
+EIA Heating Oil Stocks Change,United States,2026.02.25,15:30,1,-0.119,-0.171,0.362,USD
+EIA Gasoline Stocks Change,United States,2026.02.25,15:30,1,-1.011,-1.042,-3.213,USD
+EIA Refinery Crude Oil Daily Inputs Change,United States,2026.02.25,15:30,1,-0.416,N/A,0.077,USD
+EIA Refinery Utilization Rate Change,United States,2026.02.25,15:30,1,-2.4,N/A,1.6,USD
 Foreign Exchange Flows,Brazil,2026.02.25,17:30,1,N/A,0.081,1.783,BRL
 5-Year Note Auction,United States,2026.02.25,18:00,2,N/A,N/A,3.823,USD
 Bbk Executive Board Member Balz Speech,Germany,2026.02.25,18:00,2,N/A,N/A,N/A,EUR
