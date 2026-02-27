@@ -212,10 +212,10 @@ CPI m/m,Spain,2026.02.27,08:00,1,0.4,-0.1,-0.4,EUR
 CPI y/y,Spain,2026.02.27,08:00,2,2.3,2.1,2.3,EUR
 HICP m/m,Spain,2026.02.27,08:00,1,0.4,-0.3,-0.8,EUR
 HICP y/y,Spain,2026.02.27,08:00,2,2.5,2.1,2.4,EUR
-Exports y/y,Hong Kong,2026.02.27,08:30,1,N/A,28.1,26.1,HKD
-Imports y/y,Hong Kong,2026.02.27,08:30,1,N/A,25.5,30.6,HKD
-Trade Balance,Hong Kong,2026.02.27,08:30,1,N/A,-38.281,-63.300,HKD
-HKMA M3 Money Supply y/y,Hong Kong,2026.02.27,08:30,1,N/A,3.9,4.2,HKD
+Exports y/y,Hong Kong,2026.02.27,08:30,1,33.8,28.1,26.1,HKD
+Imports y/y,Hong Kong,2026.02.27,08:30,1,38.1,25.5,30.6,HKD
+Trade Balance,Hong Kong,2026.02.27,08:30,1,-14.100,-38.281,-63.300,HKD
+HKMA M3 Money Supply y/y,Hong Kong,2026.02.27,08:30,1,3.8,3.9,4.2,HKD
 Unemployment Change,Germany,2026.02.27,08:55,2,N/A,2,0,EUR
 Unemployment Rate,Germany,2026.02.27,08:55,2,N/A,6.3,6.3,EUR
 Unemployment n.s.a.,Germany,2026.02.27,08:55,1,N/A,3.062,3.085,EUR
