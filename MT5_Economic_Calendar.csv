@@ -197,14 +197,14 @@ Import Price Index y/y,Germany,2026.02.27,07:00,1,-2.3,-2.9,-2.3,EUR
 Export Price Index m/m,Germany,2026.02.27,07:00,1,0.9,-0.1,-0.1,EUR
 Export Price Index y/y,Germany,2026.02.27,07:00,1,0.2,-0.2,0.0,EUR
 CPI m/m,France,2026.02.27,07:45,2,N/A,-0.5,-0.3,EUR
-CPI y/y,France,2026.02.27,07:45,1,N/A,0.5,0.3,EUR
+CPI y/y,France,2026.02.27,07:45,1,1.0,0.5,0.3,EUR
 HICP m/m,France,2026.02.27,07:45,2,N/A,-0.6,-0.4,EUR
-HICP y/y,France,2026.02.27,07:45,1,N/A,0.7,0.4,EUR
-GDP q/q,France,2026.02.27,07:45,2,N/A,0.2,0.2,EUR
-GDP y/y,France,2026.02.27,07:45,2,N/A,1.1,1.1,EUR
-Consumer Spending m/m,France,2026.02.27,07:45,2,N/A,0.0,-0.6,EUR
-PPI m/m,France,2026.02.27,07:45,1,N/A,1.4,2.8,EUR
-Nonfarm Payrolls q/q,France,2026.02.27,07:45,1,N/A,-0.1,-0.1,EUR
+HICP y/y,France,2026.02.27,07:45,1,1.1,0.7,0.4,EUR
+GDP q/q,France,2026.02.27,07:45,2,0.2,0.2,0.2,EUR
+GDP y/y,France,2026.02.27,07:45,2,1.2,1.1,1.1,EUR
+Consumer Spending m/m,France,2026.02.27,07:45,2,0.5,0.0,-0.6,EUR
+PPI m/m,France,2026.02.27,07:45,1,0.3,1.4,2.8,EUR
+Nonfarm Payrolls q/q,France,2026.02.27,07:45,1,-0.1,-0.1,-0.1,EUR
 KOF Economic Barometer,Switzerland,2026.02.27,08:00,2,N/A,100.6,102.5,CHF
 GDP q/q,Switzerland,2026.02.27,08:00,2,N/A,-0.2,-0.5,CHF
 GDP y/y,Switzerland,2026.02.27,08:00,2,N/A,1.5,0.5,CHF
