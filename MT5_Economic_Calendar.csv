@@ -141,14 +141,14 @@ S&P Global Composite PMI,European Union,2026.03.04,09:00,2,51.9,51.9,51.9,EUR
 SNB News Conference,Switzerland,2026.03.04,09:30,3,N/A,N/A,N/A,CHF
 S&P Global/CIPS Services PMI,United Kingdom,2026.03.04,09:30,2,53.9,53.9,53.9,GBP
 S&P Global/CIPS Composite PMI,United Kingdom,2026.03.04,09:30,2,53.7,N/A,53.9,GBP
-HPI y/y,Norway,2026.03.04,10:00,1,N/A,3.7,4.2,NOK
-HPI n.s.a. m/m,Norway,2026.03.04,10:00,1,N/A,N/A,3.6,NOK
-HPI s.a. m/m,Norway,2026.03.04,10:00,1,N/A,N/A,0.6,NOK
-GDP q/q,Italy,2026.03.04,10:00,1,N/A,0.3,0.3,EUR
-GDP y/y,Italy,2026.03.04,10:00,1,N/A,0.8,0.8,EUR
-PPI m/m,European Union,2026.03.04,10:00,1,N/A,0.1,-0.3,EUR
-PPI y/y,European Union,2026.03.04,10:00,1,N/A,-2.8,-2.1,EUR
-Unemployment Rate,European Union,2026.03.04,10:00,2,N/A,6.1,6.2,EUR
+HPI y/y,Norway,2026.03.04,10:00,1,3.0,3.7,4.2,NOK
+HPI n.s.a. m/m,Norway,2026.03.04,10:00,1,0.5,N/A,3.6,NOK
+HPI s.a. m/m,Norway,2026.03.04,10:00,1,-0.3,N/A,0.6,NOK
+GDP q/q,Italy,2026.03.04,10:00,1,0.3,0.3,0.3,EUR
+GDP y/y,Italy,2026.03.04,10:00,1,0.8,0.8,0.8,EUR
+PPI m/m,European Union,2026.03.04,10:00,1,0.7,0.1,-0.3,EUR
+PPI y/y,European Union,2026.03.04,10:00,1,-2.1,-2.8,-2.1,EUR
+Unemployment Rate,European Union,2026.03.04,10:00,2,6.2,6.1,6.2,EUR
 RBI M3 Money Supply y/y,India,2026.03.04,10:30,1,N/A,N/A,N/A,INR
 New Car Registrations m/m,Germany,2026.03.04,11:00,1,N/A,N/A,-21.3,EUR
 New Car Registrations y/y,Germany,2026.03.04,11:00,1,N/A,N/A,-6.6,EUR
