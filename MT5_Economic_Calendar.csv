@@ -271,8 +271,8 @@ Business Inventories m/m,United States,2026.03.06,15:00,2,0.1,0.1,0.1,USD
 Retail Inventories m/m,United States,2026.03.06,15:00,2,0.1,0.0,0.0,USD
 Retail Inventories excl. Autos m/m,United States,2026.03.06,15:00,2,0.4,N/A,0.2,USD
 ECB Executive Board Member Schnabel Speech,European Union,2026.03.06,17:00,2,N/A,N/A,N/A,EUR
-Baker Hughes US Oil Rig Count,United States,2026.03.06,18:00,2,N/A,N/A,407,USD
-Baker Hughes US Total Rig Count,United States,2026.03.06,18:00,2,N/A,N/A,550,USD
+Baker Hughes US Oil Rig Count,United States,2026.03.06,18:00,2,411,N/A,407,USD
+Baker Hughes US Total Rig Count,United States,2026.03.06,18:00,2,551,N/A,550,USD
 Fed Consumer Credit m/m,United States,2026.03.06,20:00,2,N/A,11.25,24.05,USD
 CFTC AUD Non-Commercial Net Positions,Australia,2026.03.06,20:30,2,N/A,N/A,52.6,AUD
 CFTC BRL Non-Commercial Net Positions,Brazil,2026.03.06,20:30,2,N/A,N/A,36.7,BRL
