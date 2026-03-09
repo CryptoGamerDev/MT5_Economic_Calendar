@@ -173,11 +173,12 @@ BOK M2 Money Supply y/y,South Korea,2026.03.13,04:00,1,N/A,7.4,6.8,KRW
 Unemployment Rate,Sweden,2026.03.13,08:00,1,N/A,9.2,8.6,SEK
 Wholesale Price Index m/m,Germany,2026.03.13,08:00,1,N/A,0.4,0.9,EUR
 Wholesale Price Index y/y,Germany,2026.03.13,08:00,1,N/A,1.1,1.2,EUR
-Industrial Production m/m,United Kingdom,2026.03.13,08:00,2,N/A,1.4,1.1,GBP
-Industrial Production y/y,United Kingdom,2026.03.13,08:00,1,N/A,0.7,2.3,GBP
-Manufacturing Production m/m,United Kingdom,2026.03.13,08:00,2,N/A,0.3,2.1,GBP
-Manufacturing Production y/y,United Kingdom,2026.03.13,08:00,1,N/A,1.5,2.1,GBP
-Index of Services,United Kingdom,2026.03.13,08:00,1,N/A,0.1,0.2,GBP
+Construction Output m/m,United Kingdom,2026.03.13,08:00,1,N/A,-0.1,-1.3,GBP
+Construction Output y/y,United Kingdom,2026.03.13,08:00,1,N/A,0.2,-1.1,GBP
+Trade Balance,United Kingdom,2026.03.13,08:00,2,N/A,-20.910,-23.711,GBP
+Trade Balance Non-EU,United Kingdom,2026.03.13,08:00,2,N/A,-11.573,-11.457,GBP
+GDP m/m,United Kingdom,2026.03.13,08:00,3,N/A,0.0,0.3,GBP
+GDP 3m/3m,United Kingdom,2026.03.13,08:00,2,N/A,N/A,0.1,GBP
 CPI m/m,France,2026.03.13,08:45,2,N/A,N/A,N/A,EUR
 CPI y/y,France,2026.03.13,08:45,1,N/A,1.0,1.0,EUR
 HICP m/m,France,2026.03.13,08:45,2,N/A,N/A,N/A,EUR
