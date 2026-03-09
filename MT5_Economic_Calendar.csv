@@ -1,8 +1,8 @@
 Title,Country,Date,Time,Importance,Actual,Forecast,Previous,Currency
-BoJ Bank Lending y/y,Japan,2026.03.09,00:50,1,N/A,4.5,4.5,JPY
-Current Account n.s.a.,Japan,2026.03.09,00:50,2,N/A,1254.1,728.8,JPY
-Goods Trade Balance,Japan,2026.03.09,00:50,1,N/A,1840.2,134.9,JPY
-Adjusted Current Account,Japan,2026.03.09,00:50,2,N/A,2718.7,2697.1,JPY
+BoJ Bank Lending y/y,Japan,2026.03.09,00:50,1,4.5,4.5,4.5,JPY
+Current Account n.s.a.,Japan,2026.03.09,00:50,2,941.6,1254.1,728.8,JPY
+Goods Trade Balance,Japan,2026.03.09,00:50,1,-600.4,1840.2,134.9,JPY
+Adjusted Current Account,Japan,2026.03.09,00:50,2,3145.0,2718.7,2697.1,JPY
 CPI m/m,China,2026.03.09,02:30,2,N/A,-0.1,0.2,CNY
 CPI y/y,China,2026.03.09,02:30,2,N/A,1.0,0.2,CNY
 PPI y/y,China,2026.03.09,02:30,2,N/A,-1.0,-1.4,CNY
