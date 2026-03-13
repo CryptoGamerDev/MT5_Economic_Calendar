@@ -226,12 +226,12 @@ Durable Goods Orders excl. Defense m/m,United States,2026.03.13,13:30,1,0.5,0.5,
 Nondefense Capital Goods Orders excl. Aircraft m/m,United States,2026.03.13,13:30,1,0.0,0.6,0.6,USD
 Nondefense Capital Goods Shipments excl. Aircraft m/m,United States,2026.03.13,13:30,1,-0.1,0.9,1.0,USD
 Current Account n.s.a.,Germany,2026.03.13,14:30,1,17.1,16.2,16.1,EUR
-Michigan Consumer Sentiment,United States,2026.03.13,15:00,2,N/A,56.8,56.6,USD
-Michigan Consumer Expectations,United States,2026.03.13,15:00,2,N/A,55.1,56.6,USD
-Michigan Current Conditions,United States,2026.03.13,15:00,1,N/A,59.1,56.6,USD
-Michigan Inflation Expectations,United States,2026.03.13,15:00,2,N/A,3.9,3.4,USD
+Michigan Consumer Sentiment,United States,2026.03.13,15:00,2,55.5,56.8,56.6,USD
+Michigan Consumer Expectations,United States,2026.03.13,15:00,2,54.1,55.1,56.6,USD
+Michigan Current Conditions,United States,2026.03.13,15:00,1,57.8,59.1,56.6,USD
+Michigan Inflation Expectations,United States,2026.03.13,15:00,2,3.4,3.9,3.4,USD
 Michigan 5-Year Inflation Expectations,United States,2026.03.13,15:00,2,N/A,3.4,3.3,USD
-JOLTS Job Openings,United States,2026.03.13,15:00,3,N/A,7.116,6.542,USD
+JOLTS Job Openings,United States,2026.03.13,15:00,3,6.946,7.116,6.542,USD
 Baker Hughes US Oil Rig Count,United States,2026.03.13,18:00,2,N/A,N/A,411,USD
 Baker Hughes US Total Rig Count,United States,2026.03.13,18:00,2,N/A,N/A,551,USD
 CFTC AUD Non-Commercial Net Positions,Australia,2026.03.13,20:30,2,N/A,N/A,67.8,AUD
