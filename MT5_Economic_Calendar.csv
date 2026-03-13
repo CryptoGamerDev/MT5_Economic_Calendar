@@ -207,9 +207,9 @@ Part-Time Employment Change,Canada,2026.03.13,13:30,1,N/A,N/A,-69.7,CAD
 Unemployment Rate,Canada,2026.03.13,13:30,2,N/A,6.5,6.5,CAD
 Participation Rate,Canada,2026.03.13,13:30,1,N/A,65.1,65.0,CAD
 Manufacturing Sales m/m,Canada,2026.03.13,13:30,1,N/A,-0.3,0.6,CAD
-Core PCE Price Index m/m,United States,2026.03.13,13:30,3,N/A,0.3,0.4,USD
-Core PCE Price Index y/y,United States,2026.03.13,13:30,3,N/A,2.8,3.0,USD
-PCE Price Index m/m,United States,2026.03.13,13:30,2,N/A,0.2,0.4,USD
+Core PCE Price Index m/m,United States,2026.03.13,13:30,3,0.4,0.3,0.4,USD
+Core PCE Price Index y/y,United States,2026.03.13,13:30,3,3.1,2.8,3.0,USD
+PCE Price Index m/m,United States,2026.03.13,13:30,2,0.3,0.2,0.4,USD
 PCE Price Index y/y,United States,2026.03.13,13:30,2,N/A,2.9,2.9,USD
 Personal Spending m/m,United States,2026.03.13,13:30,2,N/A,0.3,0.4,USD
 Personal Income m/m,United States,2026.03.13,13:30,1,N/A,0.1,0.3,USD
