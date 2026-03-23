@@ -80,6 +80,13 @@ CPIH m/m,United Kingdom,2026.03.25,08:00,2,N/A,0.5,0.4,GBP
 Core CPI m/m,United Kingdom,2026.03.25,08:00,1,N/A,0.3,0.3,GBP
 PPI Input m/m,United Kingdom,2026.03.25,08:00,2,N/A,N/A,-0.2,GBP
 PPI Input y/y,United Kingdom,2026.03.25,08:00,1,N/A,N/A,0.8,GBP
+PPI Output m/m,United Kingdom,2026.03.25,08:00,1,N/A,N/A,0.0,GBP
+PPI Output y/y,United Kingdom,2026.03.25,08:00,1,N/A,N/A,3.4,GBP
+Core PPI Output m/m,United Kingdom,2026.03.25,08:00,1,N/A,N/A,-0.1,GBP
+Core PPI Output y/y,United Kingdom,2026.03.25,08:00,1,N/A,N/A,3.2,GBP
+CPI m/m,United Kingdom,2026.03.25,08:00,2,N/A,N/A,0.4,GBP
+CPI y/y,United Kingdom,2026.03.25,08:00,3,N/A,N/A,3.4,GBP
+Core CPI y/y,United Kingdom,2026.03.25,08:00,1,N/A,N/A,3.2,GBP
 PPI y/y,Spain,2026.03.25,09:00,1,N/A,-4.0,-2.9,EUR
 Riksbank Monetary Policy Meeting Minutes,Sweden,2026.03.25,09:30,2,N/A,N/A,N/A,SEK
 ECB President Lagarde Speech,European Union,2026.03.25,09:45,3,N/A,N/A,N/A,EUR
