@@ -96,14 +96,14 @@ Export Price Index m/m,United States,2026.03.25,13:30,2,1.5,0.3,0.6,USD
 Export Price Index y/y,United States,2026.03.25,13:30,1,3.5,1.7,2.6,USD
 Import Price Index excl. Petroleum m/m,United States,2026.03.25,13:30,1,1.2,0.1,0.4,USD
 SNB Quarterly Bulletin,Switzerland,2026.03.25,15:00,2,N/A,N/A,N/A,CHF
-EIA Crude Oil Stocks Change,United States,2026.03.25,15:30,3,N/A,0.070,6.156,USD
+EIA Crude Oil Stocks Change,United States,2026.03.25,15:30,3,6.926,0.070,6.156,USD
 EIA Cushing Crude Oil Stocks Change,United States,2026.03.25,15:30,2,N/A,-0.108,0.944,USD
 EIA Crude Oil Imports Change,United States,2026.03.25,15:30,1,N/A,-0.085,-0.692,USD
-EIA Distillate Fuel Production Change,United States,2026.03.25,15:30,1,N/A,-0.014,-0.075,USD
-EIA Distillates Stocks Change,United States,2026.03.25,15:30,1,N/A,-1.696,-2.527,USD
-EIA Gasoline Production Change,United States,2026.03.25,15:30,1,N/A,-0.154,-0.462,USD
+EIA Distillate Fuel Production Change,United States,2026.03.25,15:30,1,0.157,-0.014,-0.075,USD
+EIA Distillates Stocks Change,United States,2026.03.25,15:30,1,3.032,-1.696,-2.527,USD
+EIA Gasoline Production Change,United States,2026.03.25,15:30,1,0.309,-0.154,-0.462,USD
 EIA Heating Oil Stocks Change,United States,2026.03.25,15:30,1,N/A,-0.004,-0.081,USD
-EIA Gasoline Stocks Change,United States,2026.03.25,15:30,1,N/A,-3.578,-5.436,USD
+EIA Gasoline Stocks Change,United States,2026.03.25,15:30,1,-2.593,-3.578,-5.436,USD
 EIA Refinery Crude Oil Daily Inputs Change,United States,2026.03.25,15:30,1,N/A,N/A,0.063,USD
 EIA Refinery Utilization Rate Change,United States,2026.03.25,15:30,1,N/A,N/A,0.6,USD
 ECB Supervisory Board Member Tuominen Speech,European Union,2026.03.25,15:30,2,N/A,N/A,N/A,EUR
