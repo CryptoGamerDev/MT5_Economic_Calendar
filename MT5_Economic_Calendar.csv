@@ -148,20 +148,20 @@ Manufacturing Production y/y,South Africa,2026.04.09,12:00,1,-2.8,0.4,-0.7,ZAR
 CPI m/m,Mexico,2026.04.09,13:00,2,0.86,0.33,0.50,MXN
 CPI y/y,Mexico,2026.04.09,13:00,2,4.59,4.80,4.02,MXN
 Core CPI m/m,Mexico,2026.04.09,13:00,1,0.38,0.55,0.46,MXN
-Core PCE Price Index m/m,United States,2026.04.09,13:30,3,N/A,0.4,0.4,USD
-Core PCE Price Index y/y,United States,2026.04.09,13:30,3,N/A,2.9,3.1,USD
+Core PCE Price Index m/m,United States,2026.04.09,13:30,3,0.4,0.4,0.4,USD
+Core PCE Price Index y/y,United States,2026.04.09,13:30,3,3.0,2.9,3.1,USD
 PCE Price Index m/m,United States,2026.04.09,13:30,2,N/A,0.2,0.3,USD
 PCE Price Index y/y,United States,2026.04.09,13:30,2,N/A,2.8,2.8,USD
 Personal Spending m/m,United States,2026.04.09,13:30,2,N/A,0.3,0.4,USD
 Personal Income m/m,United States,2026.04.09,13:30,1,N/A,0.3,0.4,USD
 Real PCE m/m,United States,2026.04.09,13:30,1,N/A,0.3,0.1,USD
-GDP q/q,United States,2026.04.09,13:30,3,N/A,0.7,0.7,USD
-GDP Price Index q/q,United States,2026.04.09,13:30,1,N/A,3.8,3.8,USD
-Core PCE Price Index q/q,United States,2026.04.09,13:30,1,N/A,2.7,2.7,USD
-PCE Price Index q/q,United States,2026.04.09,13:30,1,N/A,2.9,2.9,USD
-Real PCE q/q,United States,2026.04.09,13:30,2,N/A,2.0,2.0,USD
-Corporate Profits q/q,United States,2026.04.09,13:30,1,N/A,0.6,4.7,USD
-GDP Sales q/q,United States,2026.04.09,13:30,3,N/A,0.4,0.4,USD
+GDP q/q,United States,2026.04.09,13:30,3,0.5,0.7,0.7,USD
+GDP Price Index q/q,United States,2026.04.09,13:30,1,3.7,3.8,3.8,USD
+Core PCE Price Index q/q,United States,2026.04.09,13:30,1,2.7,2.7,2.7,USD
+PCE Price Index q/q,United States,2026.04.09,13:30,1,2.9,2.9,2.9,USD
+Real PCE q/q,United States,2026.04.09,13:30,2,1.9,2.0,2.0,USD
+Corporate Profits q/q,United States,2026.04.09,13:30,1,5.7,0.6,4.7,USD
+GDP Sales q/q,United States,2026.04.09,13:30,3,0.3,0.4,0.4,USD
 Initial Jobless Claims,United States,2026.04.09,13:30,3,N/A,206,202,USD
 Continuing Jobless Claims,United States,2026.04.09,13:30,2,N/A,1.847,1.841,USD
 Initial Jobless Claims 4-Week Average,United States,2026.04.09,13:30,1,N/A,205.037,207.750,USD
