@@ -124,17 +124,17 @@ Fed Governor Waller Speech,United States,2026.04.08,19:35,2,N/A,N/A,N/A,USD
 RICS House Price Balance,United Kingdom,2026.04.09,00:01,2,-23.0,-2.3,-12.0,GBP
 Foreign Bond Investment,Japan,2026.04.09,00:50,1,-2462.4,N/A,-945.4,JPY
 Foreign Investment in Japan Stocks,Japan,2026.04.09,00:50,1,2959.6,N/A,-4448.1,JPY
-PPI m/m,Norway,2026.04.09,07:00,1,N/A,N/A,-0.7,NOK
-PPI y/y,Norway,2026.04.09,07:00,1,N/A,-12.2,-9.4,NOK
-Gross International Reserves,South Africa,2026.04.09,07:00,1,N/A,84.497,81.060,ZAR
-Net International Reserves,South Africa,2026.04.09,07:00,1,N/A,77.206,75.835,ZAR
+PPI m/m,Norway,2026.04.09,07:00,1,18.4,N/A,-0.7,NOK
+PPI y/y,Norway,2026.04.09,07:00,1,16.9,-12.2,-9.4,NOK
+Gross International Reserves,South Africa,2026.04.09,07:00,1,77.759,84.497,81.060,ZAR
+Net International Reserves,South Africa,2026.04.09,07:00,1,73.187,77.206,75.835,ZAR
 Machine Tool Orders y/y,Japan,2026.04.09,07:00,1,N/A,N/A,N/A,JPY
 Exports m/m,Germany,2026.04.09,07:00,1,N/A,-3.3,-2.3,EUR
-Imports m/m,Germany,2026.04.09,07:00,1,N/A,-3.5,-5.9,EUR
+Imports m/m,Germany,2026.04.09,07:00,1,4.7,-3.5,-5.9,EUR
 Trade Balance,Germany,2026.04.09,07:00,2,N/A,18.0,21.3,EUR
 Trade Balance n.s.a.,Germany,2026.04.09,07:00,1,N/A,15.5,16.6,EUR
-Industrial Production m/m,Germany,2026.04.09,07:00,2,N/A,2.4,-0.5,EUR
-Industrial Production y/y,Germany,2026.04.09,07:00,1,N/A,-0.6,-1.2,EUR
+Industrial Production m/m,Germany,2026.04.09,07:00,2,-0.3,2.4,-0.5,EUR
+Industrial Production y/y,Germany,2026.04.09,07:00,1,0.0,-0.6,-1.2,EUR
 Industrial Production y/y,Spain,2026.04.09,08:00,1,N/A,-1.1,0.3,EUR
 BoE Credit Conditions Survey,United Kingdom,2026.04.09,09:30,2,N/A,N/A,N/A,GBP
 BoE Bank Liabilities Survey,United Kingdom,2026.04.09,09:30,2,N/A,N/A,N/A,GBP
