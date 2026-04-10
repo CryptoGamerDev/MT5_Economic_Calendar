@@ -179,9 +179,6 @@ BoJ Corporate Goods Price Index m/m,Japan,2026.04.10,00:50,1,0.8,0.0,-0.1,JPY
 BoJ Corporate Goods Price Index y/y,Japan,2026.04.10,00:50,1,2.6,1.7,2.0,JPY
 BOK Interest Rate Decision,South Korea,2026.04.10,02:00,1,2.50,N/A,2.50,KRW
 BOK Monetary Policy Board Meeting,South Korea,2026.04.10,02:00,2,N/A,N/A,N/A,KRW
-PBC New Loans,China,2026.04.10,02:00,2,N/A,1.109,0.900,CNY
-PBC M2 Money Stock y/y,China,2026.04.10,02:00,1,N/A,8.7,9.0,CNY
-PBC Outstanding Loan Growth y/y,China,2026.04.10,02:00,1,N/A,5.7,6.0,CNY
 CPI m/m,China,2026.04.10,02:30,2,-0.7,0.2,1.0,CNY
 CPI y/y,China,2026.04.10,02:30,2,1.0,0.8,1.3,CNY
 PPI y/y,China,2026.04.10,02:30,2,0.5,-0.6,-0.9,CNY
@@ -210,7 +207,6 @@ Industrial Production y/y,Italy,2026.04.10,09:00,1,0.5,0.8,-0.6,EUR
 ECB Vice President de Guindos Speech,European Union,2026.04.10,11:00,2,N/A,N/A,N/A,EUR
 3-Year BTP Auction,Italy,2026.04.10,11:18,1,2.91,N/A,2.75,EUR
 7-Year BTP Auction,Italy,2026.04.10,11:18,1,3.51,N/A,3.34,EUR
-Consumer Confidence,Spain,2026.04.10,11:30,1,N/A,79.4,80.5,EUR
 Foreign Exchange Reserves,India,2026.04.10,12:30,1,N/A,678.554,688.058,INR
 Industrial Production m/m,Mexico,2026.04.10,13:00,1,N/A,-0.1,-1.1,MXN
 Industrial Production n.s.a. y/y,Mexico,2026.04.10,13:00,1,N/A,0.6,-1.1,MXN
@@ -267,3 +263,6 @@ CFTC Soybeans Non-Commercial Net Positions,United States,2026.04.10,20:30,1,N/A,
 CFTC Wheat Non-Commercial Net Positions,United States,2026.04.10,20:30,1,N/A,N/A,-9.4,USD
 CFTC Nasdaq 100 Non-Commercial Net Positions,United States,2026.04.10,20:30,2,N/A,N/A,20.6,USD
 CFTC EUR Non-Commercial Net Positions,European Union,2026.04.10,20:30,2,N/A,N/A,0.5,EUR
+PBC New Loans,China,2026.04.11,02:00,2,N/A,1.109,0.900,CNY
+PBC M2 Money Stock y/y,China,2026.04.11,02:00,1,N/A,8.7,9.0,CNY
+PBC Outstanding Loan Growth y/y,China,2026.04.11,02:00,1,N/A,5.7,6.0,CNY
