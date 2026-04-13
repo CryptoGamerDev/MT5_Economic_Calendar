@@ -169,11 +169,11 @@ Industrial Production y/y,United Kingdom,2026.04.16,07:00,1,N/A,0.7,2.3,GBP
 Manufacturing Production m/m,United Kingdom,2026.04.16,07:00,2,N/A,0.3,2.1,GBP
 Manufacturing Production y/y,United Kingdom,2026.04.16,07:00,1,N/A,1.5,2.1,GBP
 Index of Services,United Kingdom,2026.04.16,07:00,1,N/A,0.1,0.2,GBP
-Industrial Production m/m,United Kingdom,2026.04.16,07:00,2,N/A,N/A,1.1,GBP
-Industrial Production y/y,United Kingdom,2026.04.16,07:00,1,N/A,N/A,2.3,GBP
-Manufacturing Production m/m,United Kingdom,2026.04.16,07:00,2,N/A,N/A,2.1,GBP
-Manufacturing Production y/y,United Kingdom,2026.04.16,07:00,1,N/A,N/A,2.1,GBP
-Index of Services,United Kingdom,2026.04.16,07:00,1,N/A,N/A,0.2,GBP
+Industrial Production m/m,United Kingdom,2026.04.16,07:00,2,N/A,1.4,1.1,GBP
+Industrial Production y/y,United Kingdom,2026.04.16,07:00,1,N/A,0.7,2.3,GBP
+Manufacturing Production m/m,United Kingdom,2026.04.16,07:00,2,N/A,0.3,2.1,GBP
+Manufacturing Production y/y,United Kingdom,2026.04.16,07:00,1,N/A,1.5,2.1,GBP
+Index of Services,United Kingdom,2026.04.16,07:00,1,N/A,0.1,0.2,GBP
 PPI m/m,Switzerland,2026.04.16,07:30,1,N/A,-0.2,-0.3,CHF
 PPI y/y,Switzerland,2026.04.16,07:30,1,N/A,-3.4,-2.7,CHF
 CPI m/m,Italy,2026.04.16,09:00,1,N/A,0.5,0.5,EUR
@@ -235,6 +235,7 @@ Trade Balance n.s.a.,European Union,2026.04.17,10:00,2,N/A,N/A,N/A,EUR
 Bank Loan Growth y/y,India,2026.04.17,12:30,1,N/A,14.9,13.8,INR
 Deposit Growth y/y,India,2026.04.17,12:30,1,N/A,10.3,10.8,INR
 Foreign Exchange Reserves,India,2026.04.17,12:30,1,N/A,689.697,697.121,INR
+BoE MPC Member Pill Speech,United Kingdom,2026.04.17,13:00,2,N/A,N/A,N/A,GBP
 CMHC Housing Starts,Canada,2026.04.17,13:15,2,N/A,256.928,250.900,CAD
 Foreign Securities Purchases,Canada,2026.04.17,13:30,2,N/A,N/A,46.733,CAD
 Foreign Securities Purchases by Canadians,Canada,2026.04.17,13:30,1,N/A,N/A,11.388,CAD
