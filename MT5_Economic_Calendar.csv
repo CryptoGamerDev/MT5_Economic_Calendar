@@ -37,10 +37,10 @@ WPI y/y,India,2026.04.14,07:30,2,N/A,0.39,2.13,INR
 WPI Manufactured Products y/y,India,2026.04.14,07:30,1,N/A,3.83,2.92,INR
 WPI Food y/y,India,2026.04.14,07:30,1,N/A,-0.93,2.19,INR
 WPI Fuel & Energy y/y,India,2026.04.14,07:30,1,N/A,-3.15,-3.78,INR
-CPI m/m,Spain,2026.04.14,08:00,1,N/A,N/A,N/A,EUR
-CPI y/y,Spain,2026.04.14,08:00,2,N/A,N/A,N/A,EUR
-HICP m/m,Spain,2026.04.14,08:00,1,N/A,N/A,N/A,EUR
-HICP y/y,Spain,2026.04.14,08:00,2,N/A,N/A,N/A,EUR
+CPI m/m,Spain,2026.04.14,08:00,1,1.2,1.0,1.0,EUR
+CPI y/y,Spain,2026.04.14,08:00,2,3.4,3.3,3.3,EUR
+HICP m/m,Spain,2026.04.14,08:00,1,1.7,1.5,1.5,EUR
+HICP y/y,Spain,2026.04.14,08:00,2,3.4,3.3,3.3,EUR
 IEA Monthly Oil Market Report,Worldwide,2026.04.14,09:00,2,N/A,N/A,N/A,ALL
 3-Month Letras Auction,Spain,2026.04.14,09:40,1,N/A,N/A,1.964,EUR
 9-Month Letras Auction,Spain,2026.04.14,09:40,1,N/A,N/A,2.164,EUR
