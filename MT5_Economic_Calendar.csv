@@ -52,10 +52,10 @@ Gold Production y/y,South Africa,2026.04.14,10:30,1,12.8,1.5,0.7,ZAR
 Westpac-MI Consumer Sentiment m/m,Australia,2026.04.14,12:30,1,-12.5,-4.0,1.2,AUD
 Services Volume m/m,Brazil,2026.04.14,13:00,1,0.1,-0.1,0.3,BRL
 Services Volume y/y,Brazil,2026.04.14,13:00,1,0.5,2.8,3.3,BRL
-PPI m/m,United States,2026.04.14,13:30,3,N/A,0.9,0.7,USD
-Core PPI m/m,United States,2026.04.14,13:30,2,N/A,0.6,0.5,USD
-PPI y/y,United States,2026.04.14,13:30,1,N/A,3.6,3.4,USD
-Core PPI y/y,United States,2026.04.14,13:30,1,N/A,3.5,3.9,USD
+PPI m/m,United States,2026.04.14,13:30,3,0.5,0.9,0.7,USD
+Core PPI m/m,United States,2026.04.14,13:30,2,0.1,0.6,0.5,USD
+PPI y/y,United States,2026.04.14,13:30,1,4.0,3.6,3.4,USD
+Core PPI y/y,United States,2026.04.14,13:30,1,3.8,3.5,3.9,USD
 ECB Executive Board Member Lane Speech,European Union,2026.04.14,15:00,2,N/A,N/A,N/A,EUR
 52-Week Bill Auction,United States,2026.04.14,16:30,1,N/A,N/A,3.485,USD
 ECB Executive Board Member Lane Speech,European Union,2026.04.14,16:30,2,N/A,N/A,N/A,EUR
