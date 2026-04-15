@@ -113,10 +113,10 @@ Foreign Exchange Flows,Brazil,2026.04.15,18:30,1,-1.303,-2.391,-2.655,BRL
 Fed Governor Bowman Speech,United States,2026.04.15,18:45,2,N/A,N/A,N/A,USD
 Fed Beige Book,United States,2026.04.15,19:00,2,N/A,N/A,N/A,USD
 ECB President Lagarde Speech,European Union,2026.04.15,20:30,3,N/A,N/A,N/A,EUR
-TIC Net Long-Term Transactions,United States,2026.04.15,21:00,2,N/A,138.6,15.5,USD
-TIC Net Long-Term Transactions incl. Swaps,United States,2026.04.15,21:00,1,N/A,194.0,15.5,USD
-TIC Overall Net Capital Flow,United States,2026.04.15,21:00,1,N/A,185.5,-25.0,USD
-TIC Net Foreign Purchases of Domestic Treasury Bonds & Notes,United States,2026.04.15,21:00,1,N/A,30.7,49.9,USD
+TIC Net Long-Term Transactions,United States,2026.04.15,21:00,2,58.6,138.6,15.5,USD
+TIC Net Long-Term Transactions incl. Swaps,United States,2026.04.15,21:00,1,58.6,194.0,15.5,USD
+TIC Overall Net Capital Flow,United States,2026.04.15,21:00,1,184.5,185.5,-25.0,USD
+TIC Net Foreign Purchases of Domestic Treasury Bonds & Notes,United States,2026.04.15,21:00,1,2.0,30.7,49.9,USD
 ECB Executive Board Member Schnabel Speech,European Union,2026.04.15,21:00,2,N/A,N/A,N/A,EUR
 Foreign Bond Investment,Japan,2026.04.16,00:50,1,N/A,N/A,-2462.4,JPY
 Foreign Investment in Japan Stocks,Japan,2026.04.16,00:50,1,N/A,N/A,2959.6,JPY
