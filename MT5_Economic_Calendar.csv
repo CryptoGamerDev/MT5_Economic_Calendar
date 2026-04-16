@@ -206,9 +206,9 @@ Philadelphia Fed Business Conditions,United States,2026.04.16,13:30,1,40.8,28.5,
 Philadelphia Fed Prices Paid,United States,2026.04.16,13:30,1,59.3,40.7,44.7,USD
 Philadelphia Fed New Orders,United States,2026.04.16,13:30,1,33.0,6.0,8.6,USD
 Philadelphia Fed Capex Index,United States,2026.04.16,13:30,1,35.2,21.7,25.8,USD
-Initial Jobless Claims,United States,2026.04.16,13:30,3,N/A,212,219,USD
-Continuing Jobless Claims,United States,2026.04.16,13:30,2,N/A,1.832,1.794,USD
-Initial Jobless Claims 4-Week Average,United States,2026.04.16,13:30,1,N/A,212.051,209.500,USD
+Initial Jobless Claims,United States,2026.04.16,13:30,3,207,212,219,USD
+Continuing Jobless Claims,United States,2026.04.16,13:30,2,1.818,1.832,1.794,USD
+Initial Jobless Claims 4-Week Average,United States,2026.04.16,13:30,1,209.750,212.051,209.500,USD
 Fed Industrial Production m/m,United States,2026.04.16,14:15,2,N/A,-0.1,0.2,USD
 Fed Capacity Utilization Rate,United States,2026.04.16,14:15,1,N/A,76.3,76.3,USD
 Fed Manufacturing Production m/m,United States,2026.04.16,14:15,1,N/A,0.0,0.2,USD
