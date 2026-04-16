@@ -174,8 +174,8 @@ Trade Balance,United Kingdom,2026.04.16,07:00,2,-18.791,-9.760,-14.449,GBP
 Trade Balance Non-EU,United Kingdom,2026.04.16,07:00,2,-7.097,-5.725,-3.461,GBP
 GDP m/m,United Kingdom,2026.04.16,07:00,3,0.5,0.0,0.0,GBP
 GDP 3m/3m,United Kingdom,2026.04.16,07:00,2,0.5,N/A,0.2,GBP
-PPI m/m,Switzerland,2026.04.16,07:30,1,N/A,-0.2,-0.3,CHF
-PPI y/y,Switzerland,2026.04.16,07:30,1,N/A,-3.4,-2.7,CHF
+PPI m/m,Switzerland,2026.04.16,07:30,1,0.2,-0.2,-0.3,CHF
+PPI y/y,Switzerland,2026.04.16,07:30,1,-2.7,-3.4,-2.7,CHF
 CPI m/m,Italy,2026.04.16,09:00,1,N/A,0.5,0.5,EUR
 CPI y/y,Italy,2026.04.16,09:00,1,N/A,1.7,1.7,EUR
 HICP m/m,Italy,2026.04.16,09:00,1,N/A,1.6,1.6,EUR
