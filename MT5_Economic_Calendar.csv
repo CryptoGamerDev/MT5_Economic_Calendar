@@ -241,20 +241,20 @@ Foreign Securities Purchases by Canadians,Canada,2026.04.17,13:30,1,25.362,N/A,1
 Baker Hughes US Oil Rig Count,United States,2026.04.17,18:00,2,410,N/A,411,USD
 Baker Hughes US Total Rig Count,United States,2026.04.17,18:00,2,543,N/A,545,USD
 Fed Governor Waller Speech,United States,2026.04.17,19:00,2,N/A,N/A,N/A,USD
-CFTC AUD Non-Commercial Net Positions,Australia,2026.04.17,20:30,2,N/A,N/A,70.8,AUD
-CFTC BRL Non-Commercial Net Positions,Brazil,2026.04.17,20:30,2,N/A,N/A,40.1,BRL
-CFTC CAD Non-Commercial Net Positions,Canada,2026.04.17,20:30,1,N/A,N/A,-55.6,CAD
-CFTC JPY Non-Commercial Net Positions,Japan,2026.04.17,20:30,2,N/A,N/A,-93.7,JPY
-CFTC MXN Non-Commercial Net Positions,Mexico,2026.04.17,20:30,1,N/A,N/A,57.5,MXN
-CFTC NZD Non-Commercial Net Positions,New Zealand,2026.04.17,20:30,1,N/A,N/A,-36.1,NZD
-CFTC ZAR Non-Commercial Net Positions,South Africa,2026.04.17,20:30,1,N/A,N/A,7.2,ZAR
-CFTC CHF Non-Commercial Net Positions,Switzerland,2026.04.17,20:30,1,N/A,N/A,-30.7,CHF
-CFTC GBP Non-Commercial Net Positions,United Kingdom,2026.04.17,20:30,2,N/A,N/A,-56.4,GBP
-CFTC Copper Non-Commercial Net Positions,United States,2026.04.17,20:30,1,N/A,N/A,40.2,USD
-CFTC Silver Non-Commercial Net Positions,United States,2026.04.17,20:30,1,N/A,N/A,23.4,USD
-CFTC Gold Non-Commercial Net Positions,United States,2026.04.17,20:30,2,N/A,N/A,156.3,USD
-CFTC Crude Oil Non-Commercial Net Positions,United States,2026.04.17,20:30,2,N/A,N/A,202.2,USD
-CFTC S&P 500 Non-Commercial Net Positions,United States,2026.04.17,20:30,2,N/A,N/A,-45.7,USD
+CFTC AUD Non-Commercial Net Positions,Australia,2026.04.17,20:30,2,65.1,N/A,70.8,AUD
+CFTC BRL Non-Commercial Net Positions,Brazil,2026.04.17,20:30,2,40.0,N/A,40.1,BRL
+CFTC CAD Non-Commercial Net Positions,Canada,2026.04.17,20:30,1,-78.3,N/A,-55.6,CAD
+CFTC JPY Non-Commercial Net Positions,Japan,2026.04.17,20:30,2,-83.2,N/A,-93.7,JPY
+CFTC MXN Non-Commercial Net Positions,Mexico,2026.04.17,20:30,1,59.0,N/A,57.5,MXN
+CFTC NZD Non-Commercial Net Positions,New Zealand,2026.04.17,20:30,1,-42.3,N/A,-36.1,NZD
+CFTC ZAR Non-Commercial Net Positions,South Africa,2026.04.17,20:30,1,6.4,N/A,7.2,ZAR
+CFTC CHF Non-Commercial Net Positions,Switzerland,2026.04.17,20:30,1,-34.1,N/A,-30.7,CHF
+CFTC GBP Non-Commercial Net Positions,United Kingdom,2026.04.17,20:30,2,-54.7,N/A,-56.4,GBP
+CFTC Copper Non-Commercial Net Positions,United States,2026.04.17,20:30,1,55.1,N/A,40.2,USD
+CFTC Silver Non-Commercial Net Positions,United States,2026.04.17,20:30,1,23.6,N/A,23.4,USD
+CFTC Gold Non-Commercial Net Positions,United States,2026.04.17,20:30,2,162.5,N/A,156.3,USD
+CFTC Crude Oil Non-Commercial Net Positions,United States,2026.04.17,20:30,2,206.5,N/A,202.2,USD
+CFTC S&P 500 Non-Commercial Net Positions,United States,2026.04.17,20:30,2,-115.8,N/A,-45.7,USD
 CFTC Aluminium Non-Commercial Net Positions,United States,2026.04.17,20:30,1,N/A,N/A,0.3,USD
 CFTC Corn Non-Commercial Net Positions,United States,2026.04.17,20:30,1,N/A,N/A,290.8,USD
 CFTC Natural Gas Non-Commercial Net Positions,United States,2026.04.17,20:30,1,N/A,N/A,-184.0,USD
