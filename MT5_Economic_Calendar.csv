@@ -238,11 +238,11 @@ Unemployment Rate,Mexico,2026.04.24,13:00,1,N/A,N/A,N/A,MXN
 Unemployment Rate n.s.a.,Mexico,2026.04.24,13:00,1,N/A,N/A,N/A,MXN
 Retail Sales m/m,Canada,2026.04.24,13:30,2,0.7,0.3,1.1,CAD
 Core Retail Sales m/m,Canada,2026.04.24,13:30,2,0.5,0.2,0.8,CAD
-Michigan Consumer Sentiment,United States,2026.04.24,15:00,2,N/A,47.6,47.6,USD
-Michigan Consumer Expectations,United States,2026.04.24,15:00,2,N/A,46.1,46.1,USD
-Michigan Current Conditions,United States,2026.04.24,15:00,1,N/A,50.1,50.1,USD
-Michigan Inflation Expectations,United States,2026.04.24,15:00,2,N/A,4.8,4.8,USD
-Michigan 5-Year Inflation Expectations,United States,2026.04.24,15:00,2,N/A,3.4,3.4,USD
+Michigan Consumer Sentiment,United States,2026.04.24,15:00,2,49.8,47.6,47.6,USD
+Michigan Consumer Expectations,United States,2026.04.24,15:00,2,48.1,46.1,46.1,USD
+Michigan Current Conditions,United States,2026.04.24,15:00,1,52.5,50.1,50.1,USD
+Michigan Inflation Expectations,United States,2026.04.24,15:00,2,4.7,4.8,4.8,USD
+Michigan 5-Year Inflation Expectations,United States,2026.04.24,15:00,2,3.5,3.4,3.4,USD
 Budget Balance,Canada,2026.04.24,16:00,1,N/A,N/A,N/A,CAD
 "Budget Balance, Fiscal Year",Canada,2026.04.24,16:00,1,N/A,N/A,N/A,CAD
 Baker Hughes US Oil Rig Count,United States,2026.04.24,18:00,2,N/A,N/A,410,USD
