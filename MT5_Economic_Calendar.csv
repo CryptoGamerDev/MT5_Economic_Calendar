@@ -71,10 +71,10 @@ CPI m/m,Spain,2026.04.29,08:00,1,0.4,1.3,1.2,EUR
 CPI y/y,Spain,2026.04.29,08:00,2,3.2,3.5,3.4,EUR
 HICP m/m,Spain,2026.04.29,08:00,1,0.7,1.5,1.7,EUR
 HICP y/y,Spain,2026.04.29,08:00,2,3.5,3.0,3.4,EUR
-ECB M3 Money Supply y/y,European Union,2026.04.29,09:00,1,N/A,3.4,3.0,EUR
-ECB Households Loans y/y,European Union,2026.04.29,09:00,2,N/A,3.1,3.0,EUR
-ECB Non-Financial Corporations Loans y/y,European Union,2026.04.29,09:00,1,N/A,2.7,2.9,EUR
-ECB Private Sector Loans y/y,European Union,2026.04.29,09:00,1,N/A,2.9,3.3,EUR
+ECB M3 Money Supply y/y,European Union,2026.04.29,09:00,1,3.2,3.4,3.0,EUR
+ECB Households Loans y/y,European Union,2026.04.29,09:00,2,3.0,3.1,3.0,EUR
+ECB Non-Financial Corporations Loans y/y,European Union,2026.04.29,09:00,1,3.2,2.7,2.9,EUR
+ECB Private Sector Loans y/y,European Union,2026.04.29,09:00,1,3.5,2.9,3.3,EUR
 Business Confidence,Italy,2026.04.29,09:00,1,N/A,89.4,88.8,EUR
 Consumer Confidence,Italy,2026.04.29,09:00,1,N/A,94.2,92.6,EUR
 Credit Suisse Economic Expectations,Switzerland,2026.04.29,09:00,1,N/A,1.9,-35.0,CHF
