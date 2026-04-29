@@ -258,12 +258,14 @@ Dallas Fed Trimmed Mean PCE Inflation Rate,United States,2026.04.30,16:00,1,N/A,
 4-Week Bill Auction,United States,2026.04.30,16:30,1,N/A,N/A,3.595,USD
 8-Week Bill Auction,United States,2026.04.30,16:30,1,N/A,N/A,3.605,USD
 Fiscal Balance,Mexico,2026.04.30,21:30,1,N/A,-74.052,-50.733,MXN
+Labor Day,Mexico,2026.04.30,22:00,0,N/A,N/A,N/A,MXN
+Labor Day,Sweden,2026.04.30,22:00,0,N/A,N/A,N/A,SEK
 Labor Day,China,2026.04.30,22:00,0,N/A,N/A,N/A,CNY
 Labor Day,Hong Kong,2026.04.30,22:00,0,N/A,N/A,N/A,HKD
 Labor Day,Singapore,2026.04.30,22:00,0,N/A,N/A,N/A,SGD
 Buddha Purnima,India,2026.04.30,22:00,0,N/A,N/A,N/A,INR
-Labor Day,Mexico,2026.04.30,22:00,0,N/A,N/A,N/A,MXN
-Labor Day,Sweden,2026.04.30,22:00,0,N/A,N/A,N/A,SEK
+Labor Day,Spain,2026.04.30,22:00,0,N/A,N/A,N/A,EUR
+Labor Day,Italy,2026.04.30,22:00,0,N/A,N/A,N/A,EUR
 Building Consents m/m,New Zealand,2026.04.30,23:45,1,N/A,-3.7,2.7,NZD
 S&P Global Manufacturing PMI,Australia,2026.05.01,00:00,1,N/A,50.0,49.8,AUD
 Tokyo CPI y/y,Japan,2026.05.01,00:30,1,N/A,1.1,1.4,JPY
