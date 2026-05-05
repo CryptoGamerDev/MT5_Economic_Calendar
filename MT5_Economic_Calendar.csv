@@ -65,9 +65,9 @@ GDP y/y,Hong Kong,2026.05.05,09:30,1,5.9,3.8,3.8,HKD
 New Car Registrations m/m,Germany,2026.05.05,11:00,1,N/A,N/A,39.2,EUR
 New Car Registrations y/y,Germany,2026.05.05,11:00,1,N/A,N/A,16.0,EUR
 BCB MPC (Copom) Minutes,Brazil,2026.05.05,12:00,2,N/A,N/A,N/A,BRL
-Trade Balance,United States,2026.05.05,13:30,2,N/A,-56.051,-57.347,USD
-Exports,United States,2026.05.05,13:30,2,N/A,N/A,314.787,USD
-Imports,United States,2026.05.05,13:30,2,N/A,N/A,372.135,USD
+Trade Balance,United States,2026.05.05,13:30,2,-60.307,-56.051,-57.347,USD
+Exports,United States,2026.05.05,13:30,2,320.859,N/A,314.787,USD
+Imports,United States,2026.05.05,13:30,2,381.165,N/A,372.135,USD
 Imports,Canada,2026.05.05,13:30,1,N/A,N/A,72.054,CAD
 Exports,Canada,2026.05.05,13:30,1,N/A,N/A,66.311,CAD
 Trade Balance,Canada,2026.05.05,13:30,2,N/A,-4.981,-5.743,CAD
