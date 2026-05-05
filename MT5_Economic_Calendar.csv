@@ -93,11 +93,11 @@ Employment Change q/q,New Zealand,2026.05.05,23:45,3,0.2,0.4,0.5,NZD
 Labor Cost Index q/q,New Zealand,2026.05.05,23:45,1,0.5,0.4,0.4,NZD
 Labor Cost Index y/y,New Zealand,2026.05.05,23:45,1,2.0,2.0,2.0,NZD
 RBNZ Governor Orr Speech,New Zealand,2026.05.06,00:00,3,N/A,N/A,N/A,NZD
-CPI m/m,South Korea,2026.05.06,00:00,1,N/A,N/A,N/A,KRW
-CPI y/y,South Korea,2026.05.06,00:00,1,N/A,N/A,N/A,KRW
-Ai Group Industry Index,Australia,2026.05.06,00:00,2,N/A,N/A,-23.6,AUD
-Ai Group Manufacturing Index,Australia,2026.05.06,00:00,1,N/A,N/A,-27.9,AUD
-Ai Group Construction Index,Australia,2026.05.06,00:00,1,N/A,N/A,-31.4,AUD
+CPI m/m,South Korea,2026.05.06,00:00,1,0.5,N/A,N/A,KRW
+CPI y/y,South Korea,2026.05.06,00:00,1,2.6,N/A,N/A,KRW
+Ai Group Industry Index,Australia,2026.05.06,00:00,2,-24.4,N/A,-23.6,AUD
+Ai Group Manufacturing Index,Australia,2026.05.06,00:00,1,-27.9,N/A,-27.9,AUD
+Ai Group Construction Index,Australia,2026.05.06,00:00,1,-19.3,N/A,-31.4,AUD
 S&P Global PMI,Hong Kong,2026.05.06,01:30,1,N/A,50.7,49.3,HKD
 S&P Global PMI,Singapore,2026.05.06,01:30,1,N/A,N/A,56.7,SGD
 RBA Chart Pack,Australia,2026.05.06,02:30,1,N/A,N/A,N/A,AUD
