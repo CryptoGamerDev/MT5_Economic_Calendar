@@ -226,16 +226,16 @@ FGV IGP-DI Inflation Index m/m,Brazil,2026.05.08,12:00,1,2.41,0.65,1.14,BRL
 Foreign Exchange Reserves,India,2026.05.08,12:30,1,690.693,697.007,698.487,INR
 Consumer Confidence Indicator,Mexico,2026.05.08,13:00,1,44.4,44.5,44.1,MXN
 Consumer Confidence Indicator n.s.a.,Mexico,2026.05.08,13:00,1,44.3,N/A,44.1,MXN
-Unemployment Rate,United States,2026.05.08,13:30,3,N/A,4.3,4.3,USD
-Nonfarm Payrolls,United States,2026.05.08,13:30,3,N/A,90,178,USD
-Participation Rate,United States,2026.05.08,13:30,2,N/A,61.7,61.9,USD
-Average Hourly Earnings m/m,United States,2026.05.08,13:30,3,N/A,0.3,0.2,USD
-Average Hourly Earnings y/y,United States,2026.05.08,13:30,2,N/A,3.6,3.5,USD
-Average Weekly Hours,United States,2026.05.08,13:30,1,N/A,34.3,34.2,USD
-Government Payrolls,United States,2026.05.08,13:30,1,N/A,7,-8,USD
-Private Nonfarm Payrolls,United States,2026.05.08,13:30,2,N/A,68,186,USD
-U6 Unemployment Rate,United States,2026.05.08,13:30,2,N/A,7.9,8.0,USD
-Manufacturing Payrolls,United States,2026.05.08,13:30,1,N/A,5,15,USD
+Unemployment Rate,United States,2026.05.08,13:30,3,4.3,4.3,4.3,USD
+Nonfarm Payrolls,United States,2026.05.08,13:30,3,115,90,178,USD
+Participation Rate,United States,2026.05.08,13:30,2,61.8,61.7,61.9,USD
+Average Hourly Earnings m/m,United States,2026.05.08,13:30,3,0.2,0.3,0.2,USD
+Average Hourly Earnings y/y,United States,2026.05.08,13:30,2,3.6,3.6,3.5,USD
+Average Weekly Hours,United States,2026.05.08,13:30,1,34.3,34.3,34.2,USD
+Government Payrolls,United States,2026.05.08,13:30,1,-8,7,-8,USD
+Private Nonfarm Payrolls,United States,2026.05.08,13:30,2,123,68,186,USD
+U6 Unemployment Rate,United States,2026.05.08,13:30,2,8.2,7.9,8.0,USD
+Manufacturing Payrolls,United States,2026.05.08,13:30,1,-2,5,15,USD
 Employment Change,Canada,2026.05.08,13:30,2,N/A,59.9,14.1,CAD
 Full-Time Employment Change,Canada,2026.05.08,13:30,1,N/A,N/A,-1.1,CAD
 Part-Time Employment Change,Canada,2026.05.08,13:30,1,N/A,N/A,15.2,CAD
