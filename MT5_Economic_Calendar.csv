@@ -29,10 +29,10 @@ PBC M2 Money Stock y/y,China,2026.05.12,02:00,1,N/A,8.6,8.5,CNY
 PBC Outstanding Loan Growth y/y,China,2026.05.12,02:00,1,N/A,5.5,5.7,CNY
 10-Year JGB Auction,Japan,2026.05.12,04:35,2,2.540,N/A,2.350,JPY
 Consumer Confidence,Norway,2026.05.12,05:30,1,-20.0,-4.4,-9.4,NOK
-Coincident Index,Japan,2026.05.12,06:00,1,N/A,116.3,116.3,JPY
-Leading Index,Japan,2026.05.12,06:00,1,N/A,112.8,113.3,JPY
-Coincident Index m/m,Japan,2026.05.12,06:00,1,N/A,N/A,-1.8,JPY
-Leading Index m/m,Japan,2026.05.12,06:00,1,N/A,N/A,1.3,JPY
+Coincident Index,Japan,2026.05.12,06:00,1,116.5,116.3,116.3,JPY
+Leading Index,Japan,2026.05.12,06:00,1,114.5,112.8,113.3,JPY
+Coincident Index m/m,Japan,2026.05.12,06:00,1,0.3,N/A,-1.8,JPY
+Leading Index m/m,Japan,2026.05.12,06:00,1,1.3,N/A,1.3,JPY
 CPI m/m,Germany,2026.05.12,07:00,2,N/A,0.6,0.6,EUR
 CPI y/y,Germany,2026.05.12,07:00,2,N/A,2.9,2.9,EUR
 HICP m/m,Germany,2026.05.12,07:00,1,N/A,0.5,0.5,EUR
