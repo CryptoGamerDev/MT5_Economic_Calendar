@@ -103,10 +103,10 @@ HICP m/m,Sweden,2026.05.13,07:00,1,N/A,N/A,N/A,SEK
 HICP y/y,Sweden,2026.05.13,07:00,1,N/A,N/A,N/A,SEK
 Wholesale Price Index m/m,Germany,2026.05.13,07:00,1,2.0,1.6,2.7,EUR
 Wholesale Price Index y/y,Germany,2026.05.13,07:00,1,7.3,3.5,4.1,EUR
-CPI m/m,France,2026.05.13,07:45,2,N/A,1.0,1.0,EUR
-CPI y/y,France,2026.05.13,07:45,1,N/A,2.2,2.2,EUR
-HICP m/m,France,2026.05.13,07:45,2,N/A,1.2,1.2,EUR
-HICP y/y,France,2026.05.13,07:45,1,N/A,2.5,2.5,EUR
+CPI m/m,France,2026.05.13,07:45,2,1.0,1.0,1.0,EUR
+CPI y/y,France,2026.05.13,07:45,1,2.2,2.2,2.2,EUR
+HICP m/m,France,2026.05.13,07:45,2,1.2,1.2,1.2,EUR
+HICP y/y,France,2026.05.13,07:45,1,2.5,2.5,2.5,EUR
 Riksbank Monetary Policy Meeting Minutes,Sweden,2026.05.13,08:30,2,N/A,N/A,N/A,SEK
 IEA Monthly Oil Market Report,Worldwide,2026.05.13,09:00,2,N/A,N/A,N/A,ALL
 Employment Change q/q,European Union,2026.05.13,10:00,1,N/A,0.2,0.2,EUR
