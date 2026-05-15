@@ -236,23 +236,23 @@ Baker Hughes US Oil Rig Count,United States,2026.05.15,18:00,2,415,N/A,410,USD
 Baker Hughes US Total Rig Count,United States,2026.05.15,18:00,2,551,N/A,548,USD
 CFTC AUD Non-Commercial Net Positions,Australia,2026.05.15,20:30,2,85.0,N/A,78.7,AUD
 CFTC BRL Non-Commercial Net Positions,Brazil,2026.05.15,20:30,2,68.6,N/A,66.8,BRL
-CFTC CAD Non-Commercial Net Positions,Canada,2026.05.15,20:30,1,N/A,N/A,-14.7,CAD
-CFTC JPY Non-Commercial Net Positions,Japan,2026.05.15,20:30,2,N/A,N/A,-61.7,JPY
-CFTC MXN Non-Commercial Net Positions,Mexico,2026.05.15,20:30,1,N/A,N/A,62.1,MXN
-CFTC NZD Non-Commercial Net Positions,New Zealand,2026.05.15,20:30,1,N/A,N/A,-48.3,NZD
-CFTC ZAR Non-Commercial Net Positions,South Africa,2026.05.15,20:30,1,N/A,N/A,5.9,ZAR
-CFTC CHF Non-Commercial Net Positions,Switzerland,2026.05.15,20:30,1,N/A,N/A,-34.5,CHF
-CFTC GBP Non-Commercial Net Positions,United Kingdom,2026.05.15,20:30,2,N/A,N/A,-63.9,GBP
-CFTC Copper Non-Commercial Net Positions,United States,2026.05.15,20:30,1,N/A,N/A,62.8,USD
-CFTC Silver Non-Commercial Net Positions,United States,2026.05.15,20:30,1,N/A,N/A,23.9,USD
-CFTC Gold Non-Commercial Net Positions,United States,2026.05.15,20:30,2,N/A,N/A,163.3,USD
-CFTC Crude Oil Non-Commercial Net Positions,United States,2026.05.15,20:30,2,N/A,N/A,178.8,USD
-CFTC S&P 500 Non-Commercial Net Positions,United States,2026.05.15,20:30,2,N/A,N/A,-103.9,USD
-CFTC Aluminium Non-Commercial Net Positions,United States,2026.05.15,20:30,1,N/A,N/A,0.4,USD
-CFTC Corn Non-Commercial Net Positions,United States,2026.05.15,20:30,1,N/A,N/A,433.4,USD
-CFTC Natural Gas Non-Commercial Net Positions,United States,2026.05.15,20:30,1,N/A,N/A,-166.6,USD
-CFTC Soybeans Non-Commercial Net Positions,United States,2026.05.15,20:30,1,N/A,N/A,232.2,USD
-CFTC Wheat Non-Commercial Net Positions,United States,2026.05.15,20:30,1,N/A,N/A,-16.7,USD
-CFTC Nasdaq 100 Non-Commercial Net Positions,United States,2026.05.15,20:30,2,N/A,N/A,1.2,USD
-CFTC EUR Non-Commercial Net Positions,European Union,2026.05.15,20:30,2,N/A,N/A,32.2,EUR
+CFTC CAD Non-Commercial Net Positions,Canada,2026.05.15,20:30,1,-16.2,N/A,-14.7,CAD
+CFTC JPY Non-Commercial Net Positions,Japan,2026.05.15,20:30,2,-75.1,N/A,-61.7,JPY
+CFTC MXN Non-Commercial Net Positions,Mexico,2026.05.15,20:30,1,64.1,N/A,62.1,MXN
+CFTC NZD Non-Commercial Net Positions,New Zealand,2026.05.15,20:30,1,-39.2,N/A,-48.3,NZD
+CFTC ZAR Non-Commercial Net Positions,South Africa,2026.05.15,20:30,1,7.1,N/A,5.9,ZAR
+CFTC CHF Non-Commercial Net Positions,Switzerland,2026.05.15,20:30,1,-36.2,N/A,-34.5,CHF
+CFTC GBP Non-Commercial Net Positions,United Kingdom,2026.05.15,20:30,2,-43.1,N/A,-63.9,GBP
+CFTC Copper Non-Commercial Net Positions,United States,2026.05.15,20:30,1,76.3,N/A,62.8,USD
+CFTC Silver Non-Commercial Net Positions,United States,2026.05.15,20:30,1,26.1,N/A,23.9,USD
+CFTC Gold Non-Commercial Net Positions,United States,2026.05.15,20:30,2,171.6,N/A,163.3,USD
+CFTC Crude Oil Non-Commercial Net Positions,United States,2026.05.15,20:30,2,169.9,N/A,178.8,USD
+CFTC S&P 500 Non-Commercial Net Positions,United States,2026.05.15,20:30,2,-143.8,N/A,-103.9,USD
+CFTC Aluminium Non-Commercial Net Positions,United States,2026.05.15,20:30,1,0.3,N/A,0.4,USD
+CFTC Corn Non-Commercial Net Positions,United States,2026.05.15,20:30,1,383.5,N/A,433.4,USD
+CFTC Natural Gas Non-Commercial Net Positions,United States,2026.05.15,20:30,1,-176.3,N/A,-166.6,USD
+CFTC Soybeans Non-Commercial Net Positions,United States,2026.05.15,20:30,1,224.0,N/A,232.2,USD
+CFTC Wheat Non-Commercial Net Positions,United States,2026.05.15,20:30,1,-14.4,N/A,-16.7,USD
+CFTC Nasdaq 100 Non-Commercial Net Positions,United States,2026.05.15,20:30,2,-16.0,N/A,1.2,USD
+CFTC EUR Non-Commercial Net Positions,European Union,2026.05.15,20:30,2,40.2,N/A,32.2,EUR
 Constitution Day,Norway,2026.05.16,22:00,0,N/A,N/A,N/A,NOK
