@@ -61,10 +61,10 @@ CPI m/m,Canada,2026.05.19,13:30,2,N/A,0.8,0.9,CAD
 CPI y/y,Canada,2026.05.19,13:30,1,N/A,2.3,2.4,CAD
 Core CPI m/m,Canada,2026.05.19,13:30,2,N/A,0.2,0.2,CAD
 Core CPI y/y,Canada,2026.05.19,13:30,2,N/A,2.2,2.5,CAD
-Common CPI y/y,Canada,2026.05.19,13:30,1,N/A,2.5,2.6,CAD
-Median CPI y/y,Canada,2026.05.19,13:30,1,N/A,2.2,2.3,CAD
-Trimmed CPI y/y,Canada,2026.05.19,13:30,1,N/A,2.0,2.2,CAD
-New Housing Price Index m/m,Canada,2026.05.19,13:30,2,N/A,-0.2,-0.2,CAD
+Common CPI y/y,Canada,2026.05.19,13:30,1,2.5,2.5,2.6,CAD
+Median CPI y/y,Canada,2026.05.19,13:30,1,2.1,2.2,2.3,CAD
+Trimmed CPI y/y,Canada,2026.05.19,13:30,1,2.0,2.0,2.2,CAD
+New Housing Price Index m/m,Canada,2026.05.19,13:30,2,-0.4,-0.2,-0.2,CAD
 GDT Price Index,New Zealand,2026.05.19,15:00,1,N/A,-0.3,1.5,NZD
 Pending Home Sales m/m,United States,2026.05.19,15:00,2,N/A,-2.3,1.5,USD
 Pending Home Sales y/y,United States,2026.05.19,15:00,1,N/A,0.0,-1.1,USD
