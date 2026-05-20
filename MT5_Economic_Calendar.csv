@@ -111,16 +111,16 @@ Fed Vice Chair for Supervision Barr Speech,United States,2026.05.20,14:15,2,N/A,
 BoE Governor Bailey Speech,United Kingdom,2026.05.20,14:15,3,N/A,N/A,N/A,GBP
 BoE MPC Member Mann Speech,United Kingdom,2026.05.20,14:15,2,N/A,N/A,N/A,GBP
 BoE MPC Member Dhingra Speech,United Kingdom,2026.05.20,14:15,2,N/A,N/A,N/A,GBP
-EIA Crude Oil Stocks Change,United States,2026.05.20,15:30,3,N/A,-17.631,-4.306,USD
-EIA Cushing Crude Oil Stocks Change,United States,2026.05.20,15:30,2,N/A,-0.628,-1.702,USD
-EIA Crude Oil Imports Change,United States,2026.05.20,15:30,1,N/A,0.427,-0.318,USD
-EIA Distillate Fuel Production Change,United States,2026.05.20,15:30,1,N/A,0.010,-0.124,USD
-EIA Distillates Stocks Change,United States,2026.05.20,15:30,1,N/A,-1.527,0.190,USD
-EIA Gasoline Production Change,United States,2026.05.20,15:30,1,N/A,-0.285,0.222,USD
-EIA Heating Oil Stocks Change,United States,2026.05.20,15:30,1,N/A,0.353,0.153,USD
-EIA Gasoline Stocks Change,United States,2026.05.20,15:30,1,N/A,-4.055,-4.084,USD
-EIA Refinery Crude Oil Daily Inputs Change,United States,2026.05.20,15:30,1,N/A,N/A,0.370,USD
-EIA Refinery Utilization Rate Change,United States,2026.05.20,15:30,1,N/A,N/A,1.6,USD
+EIA Crude Oil Stocks Change,United States,2026.05.20,15:30,3,-7.863,-17.631,-4.306,USD
+EIA Cushing Crude Oil Stocks Change,United States,2026.05.20,15:30,2,-1.604,-0.628,-1.702,USD
+EIA Crude Oil Imports Change,United States,2026.05.20,15:30,1,0.003,0.427,-0.318,USD
+EIA Distillate Fuel Production Change,United States,2026.05.20,15:30,1,0.214,0.010,-0.124,USD
+EIA Distillates Stocks Change,United States,2026.05.20,15:30,1,0.372,-1.527,0.190,USD
+EIA Gasoline Production Change,United States,2026.05.20,15:30,1,-0.446,-0.285,0.222,USD
+EIA Heating Oil Stocks Change,United States,2026.05.20,15:30,1,0.021,0.353,0.153,USD
+EIA Gasoline Stocks Change,United States,2026.05.20,15:30,1,-1.548,-4.055,-4.084,USD
+EIA Refinery Crude Oil Daily Inputs Change,United States,2026.05.20,15:30,1,-0.080,N/A,0.370,USD
+EIA Refinery Utilization Rate Change,United States,2026.05.20,15:30,1,-0.1,N/A,1.6,USD
 20-Year Bond Auction,United States,2026.05.20,18:00,2,N/A,N/A,4.883,USD
 Foreign Exchange Flows,Brazil,2026.05.20,18:30,1,N/A,1.549,-1.439,BRL
 FOMC Minutes,United States,2026.05.20,19:00,2,N/A,N/A,N/A,USD
