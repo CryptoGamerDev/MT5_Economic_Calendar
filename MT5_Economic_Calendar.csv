@@ -169,12 +169,12 @@ Construction Output y/y,European Union,2026.05.21,10:00,1,-1.2,-1.3,-1.9,EUR
 Bbk Monthly Report,Germany,2026.05.21,11:00,1,N/A,N/A,N/A,EUR
 Retail Sales m/m,Mexico,2026.05.21,13:00,1,0.1,0.0,-0.9,MXN
 Retail Sales n.s.a. y/y,Mexico,2026.05.21,13:00,1,2.9,2.4,3.1,MXN
-Philadelphia Fed Manufacturing Index,United States,2026.05.21,13:30,3,N/A,2.9,26.7,USD
-Philadelphia Fed Employment,United States,2026.05.21,13:30,2,N/A,-7.5,-5.1,USD
-Philadelphia Fed Business Conditions,United States,2026.05.21,13:30,1,N/A,29.4,40.8,USD
-Philadelphia Fed Prices Paid,United States,2026.05.21,13:30,1,N/A,48.1,59.3,USD
-Philadelphia Fed New Orders,United States,2026.05.21,13:30,1,N/A,21.2,33.0,USD
-Philadelphia Fed Capex Index,United States,2026.05.21,13:30,1,N/A,22.6,35.2,USD
+Philadelphia Fed Manufacturing Index,United States,2026.05.21,13:30,3,-0.4,2.9,26.7,USD
+Philadelphia Fed Employment,United States,2026.05.21,13:30,2,-2.8,-7.5,-5.1,USD
+Philadelphia Fed Business Conditions,United States,2026.05.21,13:30,1,53.2,29.4,40.8,USD
+Philadelphia Fed Prices Paid,United States,2026.05.21,13:30,1,47.9,48.1,59.3,USD
+Philadelphia Fed New Orders,United States,2026.05.21,13:30,1,-1.7,21.2,33.0,USD
+Philadelphia Fed Capex Index,United States,2026.05.21,13:30,1,30.9,22.6,35.2,USD
 Housing Starts,United States,2026.05.21,13:30,2,N/A,1.553,1.502,USD
 Building Permits,United States,2026.05.21,13:30,2,N/A,1.371,1.372,USD
 Housing Starts m/m,United States,2026.05.21,13:30,2,N/A,-1.0,10.8,USD
@@ -182,8 +182,8 @@ Building Permits m/m,United States,2026.05.21,13:30,1,N/A,2.0,-10.8,USD
 Initial Jobless Claims,United States,2026.05.21,13:30,3,N/A,208,211,USD
 Continuing Jobless Claims,United States,2026.05.21,13:30,2,N/A,1.805,1.782,USD
 Initial Jobless Claims 4-Week Average,United States,2026.05.21,13:30,1,N/A,202.183,203.750,USD
-Building Permits m/m,South Africa,2026.05.21,13:30,1,N/A,-12.3,-3.7,ZAR
-Building Permits y/y,South Africa,2026.05.21,13:30,1,N/A,-0.1,-11.0,ZAR
+Building Permits m/m,South Africa,2026.05.21,13:30,1,10.4,-12.3,-3.7,ZAR
+Building Permits y/y,South Africa,2026.05.21,13:30,1,16.9,-0.1,-11.0,ZAR
 Consumer Confidence Index,European Union,2026.05.21,15:00,1,N/A,-20.2,-20.6,EUR
 EIA Natural Gas Storage Change,United States,2026.05.21,15:30,1,N/A,81,85,USD
 Kansas City Fed Manufacturing Composite Index,United States,2026.05.21,16:00,1,N/A,13,10,USD
