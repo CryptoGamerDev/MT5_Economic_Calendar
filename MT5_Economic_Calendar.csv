@@ -199,10 +199,10 @@ Retail Sales q/q,New Zealand,2026.05.21,23:45,2,0.9,0.5,0.9,NZD
 Core Retail Sales q/q,New Zealand,2026.05.21,23:45,2,1.0,0.3,1.5,NZD
 Retail Sales y/y,New Zealand,2026.05.21,23:45,2,4.5,4.5,4.4,NZD
 GfK Consumer Confidence,United Kingdom,2026.05.22,00:01,1,N/A,-23,-25,GBP
-CPI y/y,Japan,2026.05.22,00:30,1,N/A,1.5,1.5,JPY
-CPI excl. Food and Energy y/y,Japan,2026.05.22,00:30,2,N/A,2.1,2.4,JPY
-Core CPI y/y,Japan,2026.05.22,00:30,2,N/A,1.4,1.8,JPY
-CPI s.a. m/m,Japan,2026.05.22,00:30,1,N/A,N/A,0.4,JPY
+CPI y/y,Japan,2026.05.22,00:30,1,1.4,1.5,1.5,JPY
+CPI excl. Food and Energy y/y,Japan,2026.05.22,00:30,2,1.9,2.1,2.4,JPY
+Core CPI y/y,Japan,2026.05.22,00:30,2,1.4,1.4,1.8,JPY
+CPI s.a. m/m,Japan,2026.05.22,00:30,1,0.1,N/A,0.4,JPY
 Foreign Direct Investment YTD y/y,China,2026.05.22,02:00,1,N/A,-5.7,-7.3,CNY
 ECB Executive Board Member Lane Speech,European Union,2026.05.22,02:15,2,N/A,N/A,N/A,EUR
 GfK Consumer Climate,Germany,2026.05.22,07:00,2,N/A,-35.0,-33.3,EUR
