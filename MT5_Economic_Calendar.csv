@@ -222,12 +222,12 @@ IPPI m/m,Canada,2026.05.22,13:30,1,2.0,1.2,2.4,CAD
 IPPI y/y,Canada,2026.05.22,13:30,1,11.4,8.7,7.8,CAD
 RMPI m/m,Canada,2026.05.22,13:30,2,2.6,2.6,12.0,CAD
 RMPI y/y,Canada,2026.05.22,13:30,1,31.6,29.6,23.6,CAD
-Michigan Consumer Sentiment,United States,2026.05.22,15:00,2,N/A,48.2,48.2,USD
-Michigan Consumer Expectations,United States,2026.05.22,15:00,2,N/A,48.5,48.5,USD
-Michigan Current Conditions,United States,2026.05.22,15:00,1,N/A,47.8,47.8,USD
-Michigan Inflation Expectations,United States,2026.05.22,15:00,2,N/A,4.5,4.5,USD
-Michigan 5-Year Inflation Expectations,United States,2026.05.22,15:00,2,N/A,3.4,3.4,USD
-CB Leading Economic Index m/m,United States,2026.05.22,15:00,2,N/A,-0.5,-0.6,USD
+Michigan Consumer Sentiment,United States,2026.05.22,15:00,2,44.8,48.2,48.2,USD
+Michigan Consumer Expectations,United States,2026.05.22,15:00,2,44.1,48.5,48.5,USD
+Michigan Current Conditions,United States,2026.05.22,15:00,1,45.8,47.8,47.8,USD
+Michigan Inflation Expectations,United States,2026.05.22,15:00,2,4.8,4.5,4.5,USD
+Michigan 5-Year Inflation Expectations,United States,2026.05.22,15:00,2,3.9,3.4,3.4,USD
+CB Leading Economic Index m/m,United States,2026.05.22,15:00,2,-0.1,-0.5,-0.6,USD
 Fed Governor Waller Speech,United States,2026.05.22,15:00,2,N/A,N/A,N/A,USD
 Baker Hughes US Oil Rig Count,United States,2026.05.22,18:00,2,N/A,N/A,415,USD
 Baker Hughes US Total Rig Count,United States,2026.05.22,18:00,2,N/A,N/A,551,USD
