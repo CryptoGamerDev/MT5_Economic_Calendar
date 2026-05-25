@@ -7,7 +7,6 @@ Whit Monday,France,2026.05.24,22:00,0,N/A,N/A,N/A,EUR
 Whit Monday,Germany,2026.05.24,22:00,0,N/A,N/A,N/A,EUR
 Whit Monday,Switzerland,2026.05.24,22:00,0,N/A,N/A,N/A,CHF
 Whit Monday,Norway,2026.05.24,22:00,0,N/A,N/A,N/A,NOK
-Foreign Direct Investment YTD y/y,China,2026.05.25,02:00,1,N/A,-5.7,-7.3,CNY
 CPI y/y,Singapore,2026.05.25,06:00,2,N/A,2.0,1.8,SGD
 FGV Consumer Confidence,Brazil,2026.05.25,12:00,1,N/A,90.3,89.1,BRL
 BCB Focus Market Report,Brazil,2026.05.25,12:30,2,N/A,N/A,N/A,BRL
@@ -18,6 +17,7 @@ Current Account,Mexico,2026.05.25,16:00,1,N/A,0.391,7.702,MXN
 Current Account - GDP Ratio,Mexico,2026.05.25,16:00,1,N/A,0.11,1.55,MXN
 GDP q/q,Singapore,2026.05.26,01:00,1,N/A,-0.3,-0.3,SGD
 GDP y/y,Singapore,2026.05.26,01:00,1,N/A,4.6,4.6,SGD
+Foreign Direct Investment YTD y/y,China,2026.05.26,02:00,1,N/A,-5.7,-7.3,CNY
 BoJ Trimmed Mean Core CPI y/y,Japan,2026.05.26,06:00,2,N/A,2.1,2.5,JPY
 BoJ Weighted Median Core CPI y/y,Japan,2026.05.26,06:00,2,N/A,1.4,1.7,JPY
 Coincident Index,Japan,2026.05.26,06:00,1,N/A,116.5,116.5,JPY
