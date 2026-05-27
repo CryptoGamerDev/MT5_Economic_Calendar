@@ -52,7 +52,6 @@ Eid al Adha,India,2026.05.26,22:00,0,N/A,N/A,N/A,INR
 Hari Raya Haji,Singapore,2026.05.26,22:00,0,N/A,N/A,N/A,SGD
 BOK Manufacturing BSI,South Korea,2026.05.26,22:00,1,N/A,N/A,N/A,KRW
 BoJ Corporate Services Price Index y/y,Japan,2026.05.27,00:50,1,3.0,3.0,3.1,JPY
-Foreign Direct Investment YTD y/y,China,2026.05.27,02:00,1,N/A,-5.7,-7.3,CNY
 Industrial Profit YTD y/y,China,2026.05.27,02:30,1,18.2,N/A,15.5,CNY
 Construction Work Done q/q,Australia,2026.05.27,02:30,2,3.4,0.3,-0.1,AUD
 RBNZ Rate Statement,New Zealand,2026.05.27,03:00,2,N/A,N/A,N/A,NZD
@@ -63,8 +62,8 @@ ECB Financial Stability Review,European Union,2026.05.27,09:00,2,N/A,N/A,N/A,EUR
 Industrial Sales m/m,Italy,2026.05.27,09:00,1,2.0,0.1,0.6,EUR
 Industrial Sales  y/y,Italy,2026.05.27,09:00,1,4.4,2.3,0.5,EUR
 Credit Suisse Economic Expectations,Switzerland,2026.05.27,09:00,1,N/A,-48.6,-35.0,CHF
-6-Month BOT Auction,Italy,2026.05.27,10:30,1,N/A,N/A,2.161,EUR
 30-Year Bond Auction,Germany,2026.05.27,10:30,1,N/A,N/A,3.62,EUR
+6-Month BOT Auction,Italy,2026.05.27,11:01,1,2.411,N/A,2.161,EUR
 RBI M3 Money Supply y/y,India,2026.05.27,11:30,1,N/A,12.0,12.0,INR
 Mid-Month CPI m/m,Brazil,2026.05.27,13:00,1,N/A,0.44,0.89,BRL
 Mid-Month CPI y/y,Brazil,2026.05.27,13:00,1,N/A,4.08,4.37,BRL
@@ -84,6 +83,7 @@ ANZ Business Confidence,New Zealand,2026.05.28,02:00,1,N/A,-29.9,-10.6,NZD
 ANZ Activity Outlook,New Zealand,2026.05.28,02:00,1,N/A,23.1,19.6,NZD
 BOK Interest Rate Decision,South Korea,2026.05.28,02:00,1,N/A,N/A,2.50,KRW
 BOK Monetary Policy Board Meeting,South Korea,2026.05.28,02:00,2,N/A,N/A,N/A,KRW
+Foreign Direct Investment YTD y/y,China,2026.05.28,02:00,1,N/A,-5.7,-7.3,CNY
 RBA Bulletin,Australia,2026.05.28,02:30,2,N/A,N/A,N/A,AUD
 Private New Capital Expenditure q/q,Australia,2026.05.28,02:30,2,N/A,0.2,0.4,AUD
 Building Capital Expenditure q/q,Australia,2026.05.28,02:30,1,N/A,1.0,2.3,AUD
