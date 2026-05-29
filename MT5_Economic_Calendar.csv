@@ -220,9 +220,9 @@ HICP m/m,Spain,2026.05.29,08:00,1,N/A,0.3,0.7,EUR
 HICP y/y,Spain,2026.05.29,08:00,2,N/A,3.5,3.5,EUR
 Riksbank Financial Stability Report,Sweden,2026.05.29,08:30,2,N/A,N/A,N/A,SEK
 Unemployment Change,Germany,2026.05.29,08:55,2,-12,16,20,EUR
-Unemployment Rate,Germany,2026.05.29,08:55,2,N/A,6.4,6.4,EUR
-Unemployment n.s.a.,Germany,2026.05.29,08:55,1,N/A,3.017,3.008,EUR
-Unemployment,Germany,2026.05.29,08:55,2,N/A,3.008,3.006,EUR
+Unemployment Rate,Germany,2026.05.29,08:55,2,6.3,6.4,6.4,EUR
+Unemployment n.s.a.,Germany,2026.05.29,08:55,1,2.950,3.017,3.008,EUR
+Unemployment,Germany,2026.05.29,08:55,2,2.987,3.008,3.006,EUR
 NAV Unemployment Rate n.s.a.,Norway,2026.05.29,09:00,1,1.9,2.2,2.1,NOK
 NAV Unemployment Change,Norway,2026.05.29,09:00,1,77.424,15.658,76.635,NOK
 Current Account,Spain,2026.05.29,09:00,1,N/A,2.437,4.040,EUR
@@ -244,8 +244,6 @@ Bank Loan Growth y/y,India,2026.05.29,12:30,1,N/A,15.8,16.0,INR
 Deposit Growth y/y,India,2026.05.29,12:30,1,N/A,12.3,12.3,INR
 Foreign Exchange Reserves,India,2026.05.29,12:30,1,N/A,680.269,688.894,INR
 Infrastructure Output y/y,India,2026.05.29,12:30,1,N/A,2.9,-0.4,INR
-Nominal Budget Balance,Brazil,2026.05.29,12:30,1,N/A,-222.208,-199.539,BRL
-Primary Budget balance,Brazil,2026.05.29,12:30,1,N/A,21.373,-80.676,BRL
 Net Debt - GDP Ratio,Brazil,2026.05.29,12:30,1,N/A,66.4,66.8,BRL
 GDP q/q,Brazil,2026.05.29,13:00,2,N/A,0.8,0.1,BRL
 GDP y/y,Brazil,2026.05.29,13:00,2,N/A,2.4,1.8,BRL
