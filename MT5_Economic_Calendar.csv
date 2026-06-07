@@ -1,9 +1,9 @@
 Title,Country,Date,Time,Importance,Actual,Forecast,Previous,Currency
 ,Australia,2026.06.07,22:00,0,N/A,N/A,N/A,AUD
-BoJ Bank Lending y/y,Japan,2026.06.08,00:50,1,N/A,5.7,5.4,JPY
-Current Account n.s.a.,Japan,2026.06.08,00:50,2,N/A,4758.3,4681.5,JPY
-Goods Trade Balance,Japan,2026.06.08,00:50,1,N/A,2216.0,830.5,JPY
-Adjusted Current Account,Japan,2026.06.08,00:50,2,N/A,4101.5,3900.6,JPY
+BoJ Bank Lending y/y,Japan,2026.06.08,00:50,1,5.7,5.7,5.4,JPY
+Current Account n.s.a.,Japan,2026.06.08,00:50,2,3907.8,4758.3,4681.5,JPY
+Goods Trade Balance,Japan,2026.06.08,00:50,1,395.7,2216.0,830.5,JPY
+Adjusted Current Account,Japan,2026.06.08,00:50,2,4211.1,4101.5,3900.6,JPY
 GDP q/q,Japan,2026.06.08,00:50,3,N/A,0.5,0.5,JPY
 GDP Price Index y/y,Japan,2026.06.08,00:50,2,N/A,3.4,3.4,JPY
 GDP y/y,Japan,2026.06.08,00:50,2,N/A,2.1,2.1,JPY
