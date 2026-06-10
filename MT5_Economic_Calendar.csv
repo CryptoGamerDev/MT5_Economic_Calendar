@@ -67,9 +67,6 @@ ECB President Lagarde Speech,European Union,2026.06.09,17:30,3,N/A,N/A,N/A,EUR
 3-Year Note Auction,United States,2026.06.09,18:00,2,4.192,N/A,3.965,USD
 BoJ Corporate Goods Price Index m/m,Japan,2026.06.10,00:50,1,0.9,2.0,2.3,JPY
 BoJ Corporate Goods Price Index y/y,Japan,2026.06.10,00:50,1,6.3,4.6,4.9,JPY
-PBC New Loans,China,2026.06.10,02:00,2,N/A,0.039,-0.010,CNY
-PBC M2 Money Stock y/y,China,2026.06.10,02:00,1,N/A,8.5,8.6,CNY
-PBC Outstanding Loan Growth y/y,China,2026.06.10,02:00,1,N/A,5.4,5.6,CNY
 CPI m/m,China,2026.06.10,02:30,2,-0.1,0.0,0.3,CNY
 CPI y/y,China,2026.06.10,02:30,2,1.2,1.6,1.2,CNY
 PPI y/y,China,2026.06.10,02:30,2,3.9,3.4,2.8,CNY
@@ -122,6 +119,9 @@ BSI Large Manufacturing,Japan,2026.06.11,00:50,2,N/A,-0.5,3.8,JPY
 Foreign Bond Investment,Japan,2026.06.11,00:50,1,N/A,N/A,-184.8,JPY
 Foreign Investment in Japan Stocks,Japan,2026.06.11,00:50,1,N/A,N/A,-491.2,JPY
 Foreign Direct Investment YTD y/y,China,2026.06.11,02:00,1,N/A,-5.7,N/A,CNY
+PBC New Loans,China,2026.06.11,02:00,2,N/A,0.039,-0.010,CNY
+PBC M2 Money Stock y/y,China,2026.06.11,02:00,1,N/A,8.5,8.6,CNY
+PBC Outstanding Loan Growth y/y,China,2026.06.11,02:00,1,N/A,N/A,5.6,CNY
 Registered Unemployment Rate,Sweden,2026.06.11,05:00,1,N/A,6.6,6.5,SEK
 CPI m/m,Sweden,2026.06.11,07:00,2,N/A,N/A,N/A,SEK
 CPI y/y,Sweden,2026.06.11,07:00,2,N/A,N/A,N/A,SEK
