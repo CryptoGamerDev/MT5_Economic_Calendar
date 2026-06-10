@@ -99,16 +99,16 @@ CPI,United States,2026.06.10,13:30,3,333.979,333.233,332.407,USD
 Core CPI n.s.a.,United States,2026.06.10,13:30,1,336.846,N/A,335.803,USD
 BoC Interest Rate Decision,Canada,2026.06.10,14:45,3,2.00,N/A,2.00,CAD
 BoC Rate Statement,Canada,2026.06.10,14:45,2,N/A,N/A,N/A,CAD
-EIA Crude Oil Stocks Change,United States,2026.06.10,15:30,3,N/A,-7.304,-7.974,USD
-EIA Cushing Crude Oil Stocks Change,United States,2026.06.10,15:30,2,N/A,-1.357,-0.583,USD
-EIA Crude Oil Imports Change,United States,2026.06.10,15:30,1,N/A,-0.429,-0.249,USD
-EIA Distillate Fuel Production Change,United States,2026.06.10,15:30,1,N/A,0.013,0.098,USD
-EIA Distillates Stocks Change,United States,2026.06.10,15:30,1,N/A,-0.137,1.502,USD
+EIA Crude Oil Stocks Change,United States,2026.06.10,15:30,3,-7.227,-7.304,-7.974,USD
+EIA Cushing Crude Oil Stocks Change,United States,2026.06.10,15:30,2,-0.801,-1.357,-0.583,USD
+EIA Crude Oil Imports Change,United States,2026.06.10,15:30,1,0.525,-0.429,-0.249,USD
+EIA Distillate Fuel Production Change,United States,2026.06.10,15:30,1,0.024,0.013,0.098,USD
+EIA Distillates Stocks Change,United States,2026.06.10,15:30,1,-0.200,-0.137,1.502,USD
 EIA Gasoline Production Change,United States,2026.06.10,15:30,1,N/A,0.005,-0.515,USD
-EIA Heating Oil Stocks Change,United States,2026.06.10,15:30,1,N/A,0.010,0.255,USD
-EIA Gasoline Stocks Change,United States,2026.06.10,15:30,1,N/A,0.940,3.364,USD
-EIA Refinery Crude Oil Daily Inputs Change,United States,2026.06.10,15:30,1,N/A,N/A,-0.090,USD
-EIA Refinery Utilization Rate Change,United States,2026.06.10,15:30,1,N/A,N/A,0.2,USD
+EIA Heating Oil Stocks Change,United States,2026.06.10,15:30,1,-0.246,0.010,0.255,USD
+EIA Gasoline Stocks Change,United States,2026.06.10,15:30,1,0.186,0.940,3.364,USD
+EIA Refinery Crude Oil Daily Inputs Change,United States,2026.06.10,15:30,1,0.081,N/A,-0.090,USD
+EIA Refinery Utilization Rate Change,United States,2026.06.10,15:30,1,0.6,N/A,0.2,USD
 Cleveland Fed Median CPI m/m,United States,2026.06.10,16:00,1,N/A,0.3,0.4,USD
 10-Year Note Auction,United States,2026.06.10,18:00,3,N/A,N/A,4.468,USD
 Foreign Exchange Flows,Brazil,2026.06.10,18:30,1,N/A,-0.049,2.805,BRL
