@@ -133,7 +133,6 @@ Mining Production m/m,South Africa,2026.06.11,10:30,1,3.3,0.0,-5.1,ZAR
 Mining Production y/y,South Africa,2026.06.11,10:30,1,8.2,6.8,2.5,ZAR
 Gold Production y/y,South Africa,2026.06.11,10:30,1,-0.2,7.5,17.1,ZAR
 3-Year BTP Auction,Italy,2026.06.11,10:42,1,3.03,N/A,2.98,EUR
-Consumer Confidence,Spain,2026.06.11,11:30,1,N/A,N/A,N/A,EUR
 Manufacturing Production m/m,South Africa,2026.06.11,12:00,1,N/A,-0.2,0.8,ZAR
 Manufacturing Production y/y,South Africa,2026.06.11,12:00,1,N/A,0.9,0.9,ZAR
 Industrial Production m/m,Mexico,2026.06.11,13:00,1,N/A,0.0,-0.6,MXN
@@ -197,6 +196,7 @@ CPI m/m,India,2026.06.12,11:30,1,N/A,N/A,3.40,INR
 CPI y/y,India,2026.06.12,11:30,2,N/A,3.14,3.48,INR
 CFPI m/m,India,2026.06.12,11:30,1,N/A,N/A,3.87,INR
 CFPI y/y,India,2026.06.12,11:30,1,N/A,N/A,N/A,INR
+Consumer Confidence,Spain,2026.06.12,11:30,1,N/A,N/A,N/A,EUR
 NIESR GDP Estimate,United Kingdom,2026.06.12,12:00,1,N/A,0.5,0.8,GBP
 Bank Loan Growth y/y,India,2026.06.12,12:30,1,N/A,16.0,16.2,INR
 Deposit Growth y/y,India,2026.06.12,12:30,1,N/A,12.4,12.2,INR
