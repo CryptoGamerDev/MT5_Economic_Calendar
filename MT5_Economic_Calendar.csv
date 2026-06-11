@@ -117,9 +117,6 @@ Unemployment Rate,South Korea,2026.06.11,00:00,1,2.8,2.7,2.8,KRW
 BSI Large Manufacturing,Japan,2026.06.11,00:50,2,-1.8,-0.5,3.8,JPY
 Foreign Bond Investment,Japan,2026.06.11,00:50,1,197.5,N/A,-184.8,JPY
 Foreign Investment in Japan Stocks,Japan,2026.06.11,00:50,1,-701.0,N/A,-491.2,JPY
-PBC New Loans,China,2026.06.11,02:00,2,N/A,0.039,-0.010,CNY
-PBC M2 Money Stock y/y,China,2026.06.11,02:00,1,N/A,8.5,8.6,CNY
-PBC Outstanding Loan Growth y/y,China,2026.06.11,02:00,1,N/A,5.4,5.6,CNY
 Registered Unemployment Rate,Sweden,2026.06.11,05:00,1,6.4,6.6,6.5,SEK
 CPI m/m,Sweden,2026.06.11,07:00,2,N/A,N/A,N/A,SEK
 CPI y/y,Sweden,2026.06.11,07:00,2,N/A,N/A,N/A,SEK
@@ -164,6 +161,9 @@ Visitor Arrivals m/m,New Zealand,2026.06.11,23:45,1,N/A,-1.2,-3.0,NZD
 Net Permanent & Long-Term Migration,New Zealand,2026.06.11,23:45,1,N/A,2.074,3.370,NZD
 Visitor Arrivals y/y,New Zealand,2026.06.11,23:45,1,N/A,10.9,15.1,NZD
 Foreign Direct Investment YTD y/y,China,2026.06.12,02:00,1,N/A,N/A,N/A,CNY
+PBC New Loans,China,2026.06.12,02:00,2,N/A,0.039,-0.010,CNY
+PBC M2 Money Stock y/y,China,2026.06.12,02:00,1,N/A,8.5,8.6,CNY
+PBC Outstanding Loan Growth y/y,China,2026.06.12,02:00,1,N/A,N/A,5.6,CNY
 Industrial Production m/m,Japan,2026.06.12,05:30,2,N/A,0.8,0.8,JPY
 Industrial Production y/y,Japan,2026.06.12,05:30,1,N/A,2.3,2.3,JPY
 Capacity Utilization Rate,Japan,2026.06.12,05:30,1,N/A,-3.5,-1.2,JPY
