@@ -167,10 +167,10 @@ PBC Outstanding Loan Growth y/y,China,2026.06.12,02:00,1,N/A,5.4,5.6,CNY
 Industrial Production m/m,Japan,2026.06.12,05:30,2,0.5,0.8,0.8,JPY
 Industrial Production y/y,Japan,2026.06.12,05:30,1,2.0,2.3,2.3,JPY
 Capacity Utilization Rate,Japan,2026.06.12,05:30,1,-0.8,-3.5,-1.2,JPY
-CPI m/m,Germany,2026.06.12,07:00,2,N/A,-0.2,-0.2,EUR
-CPI y/y,Germany,2026.06.12,07:00,2,N/A,2.6,2.6,EUR
-HICP m/m,Germany,2026.06.12,07:00,1,N/A,-0.1,-0.1,EUR
-HICP y/y,Germany,2026.06.12,07:00,1,N/A,2.7,2.7,EUR
+CPI m/m,Germany,2026.06.12,07:00,2,-0.2,-0.2,-0.2,EUR
+CPI y/y,Germany,2026.06.12,07:00,2,2.6,2.6,2.6,EUR
+HICP m/m,Germany,2026.06.12,07:00,1,-0.1,-0.1,-0.1,EUR
+HICP y/y,Germany,2026.06.12,07:00,1,2.7,2.7,2.7,EUR
 CPI m/m,France,2026.06.12,07:45,2,N/A,0.1,0.1,EUR
 CPI y/y,France,2026.06.12,07:45,1,N/A,2.4,2.4,EUR
 HICP m/m,France,2026.06.12,07:45,2,N/A,0.1,0.1,EUR
