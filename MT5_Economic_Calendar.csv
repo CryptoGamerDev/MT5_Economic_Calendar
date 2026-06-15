@@ -36,10 +36,10 @@ NY Fed Empire State Manufacturing Index,United States,2026.06.15,13:30,2,5.7,16.
 3-Month BTF Auction,France,2026.06.15,13:55,1,2.352,N/A,2.361,EUR
 6-Month BTF Auction,France,2026.06.15,13:55,1,2.465,N/A,2.507,EUR
 12-Month BTF Auction,France,2026.06.15,13:55,1,2.602,N/A,2.667,EUR
-Fed Industrial Production m/m,United States,2026.06.15,14:15,2,N/A,0.1,0.7,USD
-Fed Capacity Utilization Rate,United States,2026.06.15,14:15,1,N/A,76.1,76.1,USD
-Fed Manufacturing Production m/m,United States,2026.06.15,14:15,1,N/A,-0.1,0.6,USD
-Fed Industrial Production y/y,United States,2026.06.15,14:15,2,N/A,0.3,1.4,USD
+Fed Industrial Production m/m,United States,2026.06.15,14:15,2,0.1,0.1,0.7,USD
+Fed Capacity Utilization Rate,United States,2026.06.15,14:15,1,76.2,76.1,76.1,USD
+Fed Manufacturing Production m/m,United States,2026.06.15,14:15,1,0.0,-0.1,0.6,USD
+Fed Industrial Production y/y,United States,2026.06.15,14:15,2,1.7,0.3,1.4,USD
 NAHB Housing Market Index,United States,2026.06.15,15:00,1,N/A,34,37,USD
 3-Month Bill Auction,United States,2026.06.15,16:30,1,N/A,N/A,3.640,USD
 6-Month Bill Auction,United States,2026.06.15,16:30,1,N/A,N/A,3.690,USD
